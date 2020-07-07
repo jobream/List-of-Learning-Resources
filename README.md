@@ -34,6 +34,24 @@ This collection provides a list of educational resources for Software Engineers.
 * [Advent of Code](https://adventofcode.com/)-  A yearly set of coding challenges that published with leaderboards
 
 
+## Web Development
+* [Learn Enough to Be Dangerous](https://www.learnenough.com/)-  Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
+* [FreeCodeCamp](https://www.freecodecamp.org/)- Coding tutorials and challenges.
+* [Thimble](https://foundation.mozilla.org/en/artifacts/thimble/)- Free online code editor, web server, web browser & developer tools.
+* [NodeSchool](https://nodeschool.io/)-Open source workshops that teach web software skills.
+* [The Odin Project](https://www.theodinproject.com/)-A full free open source coding curriculum.
+* [Egghead](https://egghead.io/)- Video tutorials on popular JavaScript frameworks.
+* [Codeacademy](https://www.codecademy.com/)- Free and premium interactive tutorials for various languages.
+* [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn)-Web development articles by Mozilla.
+* [W3Schools](https://www.w3schools.com/)-Tutorials on HTML, CSS, JavaScript and more.
+* [Eloguent Javascript](https://eloquentjavascript.net/)-  An online book about JavaScript.
+* [Coder-Coder](https://coder-coder.com/)-  Tutorials on Web Development from basics including HTML, CSS, JavaScript and more.
+* [CodeCraft](https://codecraft.tv/)- Provide Web Development Courses on JavaScript, AngularJS, Angular 5 for free.
+* [Scrimba](https://scrimba.com/)- Provides Web Development Courses with a unique feature of live interaction with the instructor’s code.
+* [FrontendMasters](https://frontendmasters.com/)-  In-depth and advanced video tutorials on Frontend Devlopment from experts in the industry.
+
+
+
 ## MORE RESOURCES COMING SOON!
 
 
