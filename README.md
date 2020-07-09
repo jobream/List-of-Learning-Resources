@@ -52,13 +52,15 @@ This collection provides a list of educational resources for Software Engineers.
 
 
 
+## Mobile Development
+* [Udacity Android Nanodegree ](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)-  Students can also apply for scholarship given by Google.
+* [Android Developer Training](https://developer.android.com/courses)- Range of courses to help you build Android apps.
+* [Vogella](https://www.vogella.com/tutorials/android.html)- Tutorials about Android development.
+* [Android Hive](https://nodeschool.io/)-Android tutorials blog.
+* [iOS development ](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)-Build your first iOS app with an Udacity course.
+
+
 ## MORE RESOURCES COMING SOON!
-
-
-
-
-
-
 
 
 
