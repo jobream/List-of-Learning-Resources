@@ -49,6 +49,8 @@ This collection provides a list of educational resources for Software Engineers.
 * [CodeCraft](https://codecraft.tv/)- Provide Web Development Courses on JavaScript, AngularJS, Angular 5 for free.
 * [Scrimba](https://scrimba.com/)- Provides Web Development Courses with a unique feature of live interaction with the instructor’s code.
 * [FrontendMasters](https://frontendmasters.com/)-  In-depth and advanced video tutorials on Frontend Devlopment from experts in the industry.
+* [Education Ecosystem](https://www.education-ecosystem.com/)-  Watch professional developers build end-to-end Projects.
+* [Scotch](https://scotch.io/)-  Provides a series of tutorials and articles on different web technologies.
 
 
 
@@ -66,6 +68,7 @@ This collection provides a list of educational resources for Software Engineers.
 * [EDX.org](http://www.edx.org/) -This is a good learning website, but you just need to register and search for the Python course or any other language that you want to learn. They provide certificates.
 * [CodeCademy](https://www.codecademy.com/) -Codecademy is also one of the better websites where you can learn basics of python in a practical way. 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) -This is one of the websites where you can learn python that is for complete beginners.
+* [Exercism](https://exercism.io/) -Practice the fondamentals of python programming by solving a set of problems.
 
 
 ## MORE RESOURCES COMING SOON!
