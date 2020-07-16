@@ -62,6 +62,7 @@ This collection provides a list of educational resources for Software Engineers.
 * [iOS development ](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)-Build your first iOS app with an Udacity course.
 
 ## Learn Python <img src="https://img.icons8.com/metro/26/000000/python.png"/>
+* [Coursera.org](https://www.coursera.org/) -Coursera is one of the good resources to do python courses from.you need to register for anything. 
 * [Cybrary.it](https://www.cybrary.it/course/python/) -Cybrary has a python class. It's good to learn the basics of the language and how to use it in the cyber security field.
 * [SoloLearn](https://www.sololearn.com/) -This is a website where you can learn many languages like C++, Javascript, HTML, and several others. The best thing is that is has an app also where you can play with your code in your phone without worrying about IDEs, complieres etc.!
 * [MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/index.htm) -You can go to MIT open courseware and this is a website where you don't need to register for anything. It's an open source course all the lectures are given by MIT lecturers. For complete beginners, it is recommended that you take Introduction to computer science and programming.
