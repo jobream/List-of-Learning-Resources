@@ -53,13 +53,13 @@ This collection provides a list of educational resources for Software Engineers.
 * [Scotch](https://scotch.io/)-  Provides a series of tutorials and articles on different web technologies.
 
 
-
 ## Mobile Development <img src="https://img.icons8.com/material-sharp/50/000000/android-os.png"/>
 * [Udacity Android Nanodegree ](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)-  Students can also apply for scholarship given by Google.
 * [Android Developer Training](https://developer.android.com/courses)- Range of courses to help you build Android apps.
 * [Vogella](https://www.vogella.com/tutorials/android.html)- Tutorials about Android development.
 * [Android Hive](https://nodeschool.io/)-Android tutorials blog.
 * [iOS development ](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)-Build your first iOS app with an Udacity course.
+
 
 ## Learn Python <img src="https://img.icons8.com/metro/26/000000/python.png"/>
 * [Coursera.org](https://www.coursera.org/) -Coursera is one of the good resources to do python courses from. You need to register for anything. 
@@ -70,6 +70,15 @@ This collection provides a list of educational resources for Software Engineers.
 * [CodeCademy](https://www.codecademy.com/) -Codecademy is also one of the better websites where you can learn basics of python in a practical way. 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) -This is one of the websites where you can learn python that is for complete beginners.
 * [Exercism](https://exercism.io/) -Practice the fondamentals of python programming by solving a set of problems.
+
+
+## Learn Git <img src="https://img.icons8.com/wired/64/000000/compare-git.png"/>
+* [pcottle-repository](https://github.com/pcottle/learnGitBranching) - This is a git repository visualizer, sandbox, and a series of educational tutorials and challenges.
+
+
+## Learn regular expressions <img src="https://img.icons8.com/officexs/16/000000/regex.png"/>
+* [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
+* [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
 
 
 ## MORE RESOURCES COMING SOON!
