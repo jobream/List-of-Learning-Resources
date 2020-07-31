@@ -32,7 +32,7 @@ This collection provides a list of educational resources for Software Engineers.
 * [Daily Coding Problem](https://www.dailycodingproblem.com/)- Get emailed a new coding problem every day.
 * [Halite](https://halite.io/)- Create AI to face off against other people’s AI. More specialized in AI.
 * [Advent of Code](https://adventofcode.com/)-  A yearly set of coding challenges that published with leaderboards
-
+* [Geeks for geeks](https://www.geeksforgeeks.org/)- A computer science portal for geeks
 
 ## Web Development <img src="https://img.icons8.com/material-sharp/24/000000/html-5.png"/>
 * [Learn Enough to Be Dangerous](https://www.learnenough.com/)-  Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
@@ -51,7 +51,7 @@ This collection provides a list of educational resources for Software Engineers.
 * [FrontendMasters](https://frontendmasters.com/)-  In-depth and advanced video tutorials on Frontend Devlopment from experts in the industry.
 * [Education Ecosystem](https://www.education-ecosystem.com/)-  Watch professional developers build end-to-end Projects.
 * [Scotch](https://scotch.io/)-  Provides a series of tutorials and articles on different web technologies.
-
+* [Css-tricks](https://css-tricks.com/)- Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
 
 ## Mobile Development <img src="https://img.icons8.com/material-sharp/50/000000/android-os.png"/>
 * [Udacity Android Nanodegree ](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)-  Students can also apply for scholarship given by Google.
