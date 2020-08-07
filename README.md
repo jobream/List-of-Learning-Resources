@@ -72,6 +72,24 @@ This collection provides a list of educational resources for Software Engineers.
 * [Exercism](https://exercism.io/) -Practice the fondamentals of python programming by solving a set of problems.
 
 
+
+## learn Git ♠️
+
+* [Course](https://lnkd.in/gfEaa2b) -Version Control Git course on Coursera offered
+
+*[GitHub] (https://lab.github.com/) -GitHub labs
+
+*[GraphQLExplorer] (https://lnkd.in/g9vh2bn) -Github GraphQL Explorer 
+
+*[APIS and documentation](https://lnkd.in/gWjAsSp) -For Github REST APIs, the best resource is the documentation 
+
+
+
+
+
+
+
+
 ## MORE RESOURCES COMING SOON!
 
 
