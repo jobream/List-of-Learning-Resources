@@ -52,6 +52,7 @@ This collection provides a list of educational resources for Software Engineers.
 * [Education Ecosystem](https://www.education-ecosystem.com/)-  Watch professional developers build end-to-end Projects.
 * [Scotch](https://scotch.io/)-  Provides a series of tutorials and articles on different web technologies.
 * [Css-tricks](https://css-tricks.com/)- Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
+* [Laracasts](https://laracasts.com/)- Best Place to learn PHP & Laravel Development.Also contains Vue tutorial and many more.
 
 ## Mobile Development <img src="https://img.icons8.com/material-sharp/50/000000/android-os.png"/>
 * [Udacity Android Nanodegree ](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)-  Students can also apply for scholarship given by Google.
