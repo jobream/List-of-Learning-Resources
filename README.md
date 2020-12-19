@@ -84,6 +84,19 @@ This collection provides a list of educational resources for Software Engineers.
 - [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
 
+## Communities
+
+- [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi)
+
+- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597)
+
+- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity)
+
+- [Code With Concepts](https://www.facebook.com/groups/codewithconcepts)
+
+- [Mentors Without Borders](https://www.facebook.com/MentorsWB)
+
+- [Google Developers Community Karachi](https://www.facebook.com/groups/GDGKolachi)
 
 ## MORE RESOURCES COMING SOON!
 
