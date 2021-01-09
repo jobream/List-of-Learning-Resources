@@ -74,6 +74,9 @@ This collection provides a list of educational resources for Software Engineers.
 - [EDX.org](http://www.edx.org/) -This is a good learning website, but you just need to register and search for the Python course or any other language that you want to learn. They provide certificates.
 - [CodeCademy](https://www.codecademy.com/) -Codecademy is also one of the better websites where you can learn basics of python in a practical way.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) -This is one of the websites where you can learn python that is for complete beginners.
+- [RealPython](https://realpython.com/start-here/) -Website where you can learn python that for beginners.
+- [learnpython](https://www.learnpython.org/) -Website Which is generously supported by DataCamp where you can learn python.
+- [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) -Website that contain various resources for learning python.
 
 ## Learn Git <img src="https://img.icons8.com/wired/64/000000/compare-git.png"/>
 
