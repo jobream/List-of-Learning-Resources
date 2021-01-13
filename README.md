@@ -104,6 +104,9 @@ This collection provides a list of educational resources for Software Engineers.
 ## Books 
 - [Cracking the Coding Interview](https://www.google.com/url?sa=t&source=web&rct=j&url=https://cin.ufpe.br/~fbma/Crack/Cracking%2520the%2520Coding%2520Interview%2520189%2520Programming%2520Questions%2520and%2520Solutions.pdf&ved=2ahUKEwjypc602JnuAhVUuXEKHd5SCnYQFjAAegQIARAB&usg=AOvVaw3vI5dXqJ_ptFWhjqeUJeY_)
 
+## Video Courses 
+- [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr)
+
 
 ## MORE RESOURCES COMING SOON!
 
