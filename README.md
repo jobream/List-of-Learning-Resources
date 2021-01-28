@@ -33,6 +33,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [Halite](https://halite.io/)- Create AI to face off against other people’s AI. More specialized in AI.
 - [Advent of Code](https://adventofcode.com/)- A yearly set of coding challenges that published with leaderboards
 - [Geeks for geeks](https://www.geeksforgeeks.org/)- A computer science portal for geeks
+- [A2 Online Judge](https://a2oj.com/)- A curated list of problems sequenced in ladder to practice and master competitive coding.
 
 ## Web Development <img src="https://img.icons8.com/material-sharp/24/000000/html-5.png"/>
 
