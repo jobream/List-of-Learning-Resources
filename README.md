@@ -84,6 +84,11 @@ This collection provides a list of educational resources for Software Engineers.
 ## Learn Git <img src="https://img.icons8.com/wired/64/000000/compare-git.png"/>
 
 - [pcottle-repository](https://github.com/pcottle/learnGitBranching) - This is a git repository visualizer, sandbox, and a series of educational tutorials and challenges.
+- [Course](https://lnkd.in/gfEaa2b) -Version Control Git course on Coursera offered
+- [GitHub] (https://lab.github.com/) -GitHub labs
+- [GraphQLExplorer] (https://lnkd.in/g9vh2bn) -Github GraphQL Explorer 
+- [APIS and documentation](https://lnkd.in/gWjAsSp) -For Github REST APIs, the best resource is the documentation 
+
 
 ## Learn regular expressions <img src="https://img.icons8.com/officexs/16/000000/regex.png"/>
 
