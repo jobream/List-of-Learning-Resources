@@ -105,11 +105,11 @@ This collection provides a list of educational resources for Software Engineers.
 - [Google Developers Community Karachi](https://www.facebook.com/groups/GDGKolachi) - This is community of Google Develoeprs Group from Karachi, Pakistan.
 
 ## Books 
-- [Cracking the Coding Interview](https://www.google.com/url?sa=t&source=web&rct=j&url=https://cin.ufpe.br/~fbma/Crack/Cracking%2520the%2520Coding%2520Interview%2520189%2520Programming%2520Questions%2520and%2520Solutions.pdf&ved=2ahUKEwjypc602JnuAhVUuXEKHd5SCnYQFjAAegQIARAB&usg=AOvVaw3vI5dXqJ_ptFWhjqeUJeY_)
+- [Cracking the Coding Interview](https://www.google.com/url?sa=t&source=web&rct=j&url=https://cin.ufpe.br/~fbma/Crack/Cracking%2520the%2520Coding%2520Interview%2520189%2520Programming%2520Questions%2520and%2520Solutions.pdf&ved=2ahUKEwjypc602JnuAhVUuXEKHd5SCnYQFjAAegQIARAB&usg=AOvVaw3vI5dXqJ_ptFWhjqeUJeY_) - This book is about coding interviews.
 
 ## Video Courses 
-- [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr)
-- [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc)
+- [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
+- [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
 
 
 ## MORE RESOURCES COMING SOON!
