@@ -88,7 +88,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [GitHub] (https://lab.github.com/) -GitHub labs
 - [GraphQLExplorer] (https://lnkd.in/g9vh2bn) -Github GraphQL Explorer 
 - [APIS and documentation](https://lnkd.in/gWjAsSp) -For Github REST APIs, the best resource is the documentation 
-
+- [Github tutorial](https://youtu.be/BCQHnlnPusY)
 
 ## Learn regular expressions <img src="https://img.icons8.com/officexs/16/000000/regex.png"/>
 
