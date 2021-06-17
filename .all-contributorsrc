@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "MRslimcoder",
+      "name": "Slim Coder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28563357?v=4",
+      "profile": "http://slimcoder.wordpress.com",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "List-of-Learning-Resources",
+  "projectOwner": "jobream",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
