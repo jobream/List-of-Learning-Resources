@@ -92,6 +92,23 @@ This collection provides a list of educational resources for Software Engineers.
 - [GraphQLExplorer](https://lnkd.in/g9vh2bn) -Github GraphQL Explorer 
 - [APIS and documentation](https://lnkd.in/gWjAsSp) -For Github REST APIs, the best resource is the documentation 
 - [Github tutorial](https://youtu.be/BCQHnlnPusY)
+- [Git Tutorial Tutorialspoint](https://www.tutorialspoint.com/git/index.htm)
+- [Git documentation](https://git-scm.com/docs/git#_git_commands)
+
+## Learn Data Structures and Algorithms
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
+- [Programiz](https://www.programiz.com/dsa)
+- [Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+- [Tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+- [DSA problems Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+
+## Learn Dynamic Programming
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
+- [Tutorialspoint](https://www.tutorialspoint.com/introduction-to-dynamic-programming)
+- [Codechef](https://www.codechef.com/wiki/tutorial-dynamic-programming)
+- [Topcoder](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced)
 
 ## Learn regular expressions <img src="https://img.icons8.com/officexs/16/000000/regex.png"/>
 
@@ -113,7 +130,16 @@ This collection provides a list of educational resources for Software Engineers.
 ## Video Courses 
 - [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
 - [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
-
+- [Git and Github](https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
+- [C language for Beginners](https://www.youtube.com/playlist?list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW)
+- [C++ for Beginners](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
+- [Python tutorial for Absolute Beginners](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+- [Web Development](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
+- [Java](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
+- [PHP](https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)
+- [Android Development](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd)
+- [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
+- [Dynamic Programming](https://www.youtube.com/watch?v=24hk2qW_BCU&list=PLb3g_Z8nEv1h1w6MI8vNMuL_wrI0FtqE7)
 
 ## MORE RESOURCES COMING SOON!
 
