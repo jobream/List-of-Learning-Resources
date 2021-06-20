@@ -83,6 +83,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [RealPython](https://realpython.com/start-here/) -Website where you can learn python that for beginners.
 - [learnpython](https://www.learnpython.org/) -Website Which is generously supported by DataCamp where you can learn python.
 - [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) -Website that contain various resources for learning python.
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)-  Introduction to Python on Microsoft Docs.
 
 ## Learn Git <img src="https://img.icons8.com/wired/64/000000/compare-git.png"/>
 
