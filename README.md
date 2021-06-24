@@ -62,6 +62,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [FrontendMentor](https://www.frontendmentor.io)- Improve your front-end skills by building real projects.Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
 - [JavascriptInfo](https://javascript.info/)-The Modern JavaScript Tutorial from the basics to advanced topics with simple, but detailed explanations.
 - [Bezkoder](https://bezkoder.com/)- Provides a series of tutorials and articles on different web technologies.
+- [Codementor](https://www.codementor.io/web-dev-experts)- Improve your coding skills or get help with an ongoing web development project.
 
 ## Mobile Development <img src="https://img.icons8.com/material-sharp/50/000000/android-os.png"/>
 
@@ -83,6 +84,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [RealPython](https://realpython.com/start-here/) -Website where you can learn python that for beginners.
 - [learnpython](https://www.learnpython.org/) -Website Which is generously supported by DataCamp where you can learn python.
 - [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) -Website that contain various resources for learning python.
+- [DevProjects](https://www.codementor.io/projects/python)-Free developer community platform to learn Python by budiling projects that have real-world applications. 
 
 ## Learn Git <img src="https://img.icons8.com/wired/64/000000/compare-git.png"/>
 
