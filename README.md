@@ -63,6 +63,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [FrontendMentor](https://www.frontendmentor.io)- Improve your front-end skills by building real projects.Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
 - [JavascriptInfo](https://javascript.info/)-The Modern JavaScript Tutorial from the basics to advanced topics with simple, but detailed explanations.
 - [Bezkoder](https://bezkoder.com/)- Provides a series of tutorials and articles on different web technologies.
+- [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/about/)-  This course serves as an introduction to modern web application development with JavaScript.
 - [CS50 Web](https://cs50.harvard.edu/web/2020/)- Diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL.
 - [Codementor](https://www.codementor.io/web-dev-experts)- Improve your coding skills or get help with an ongoing web development project.
 
@@ -97,6 +98,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [GraphQLExplorer](https://lnkd.in/g9vh2bn) -Github GraphQL Explorer 
 - [APIS and documentation](https://lnkd.in/gWjAsSp) -For Github REST APIs, the best resource is the documentation 
 - [Github tutorial](https://youtu.be/BCQHnlnPusY)
+- [Learn Git Branching](https://learngitbranching.js.org/) - "Learn Git Branching" is the most visual and interactive way to learn Git on the web.
 - [Git Tutorial Tutorialspoint](https://www.tutorialspoint.com/git/index.htm)
 - [Git documentation](https://git-scm.com/docs/git#_git_commands)
 
