@@ -66,6 +66,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/about/)-  This course serves as an introduction to modern web application development with JavaScript.
 - [CS50 Web](https://cs50.harvard.edu/web/2020/)- Diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL.
 - [Codementor](https://www.codementor.io/web-dev-experts)- Improve your coding skills or get help with an ongoing web development project.
+- [HTML elements PDF](https://html.com/wp-content/uploads/html-cheat-sheet.pdf) - Become a HTML geek by finding definitions, examples and references clearly with this PDF.
 
 ## Mobile Development <img src="https://img.icons8.com/material-sharp/50/000000/android-os.png"/>
 
