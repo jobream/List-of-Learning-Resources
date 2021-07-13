@@ -1,6 +1,6 @@
 # LIST OF AWESOME LEARNING RESOURCES 🚀
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This collection provides a list of educational resources for Software Engineers. Feel free to add your favorite resources as well and help others in their journey of learning.
@@ -51,6 +51,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [W3Schools](https://www.w3schools.com/)-Tutorials on HTML, CSS, JavaScript and more.
 - [Eloguent Javascript](https://eloquentjavascript.net/)- An online book about JavaScript.
 - [Coder-Coder](https://coder-coder.com/)- Tutorials on Web Development from basics including HTML, CSS, JavaScript and more.
+- [HTML Dog](https://www.htmldog.com/)- HTML, CSS and JavaScript courses - all the languages you need to build a website.
 - [CodeCraft](https://codecraft.tv/)- Provide Web Development Courses on JavaScript, AngularJS, Angular 5 for free.
 - [Scrimba](https://scrimba.com/)- Provides Web Development Courses with a unique feature of live interaction with the instructor’s code.
 - [FrontendMasters](https://frontendmasters.com/)- In-depth and advanced video tutorials on Frontend Devlopment from experts in the industry.
@@ -62,6 +63,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [FrontendMentor](https://www.frontendmentor.io)- Improve your front-end skills by building real projects.Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
 - [JavascriptInfo](https://javascript.info/)-The Modern JavaScript Tutorial from the basics to advanced topics with simple, but detailed explanations.
 - [Bezkoder](https://bezkoder.com/)- Provides a series of tutorials and articles on different web technologies.
+- [Codementor](https://www.codementor.io/web-dev-experts)- Improve your coding skills or get help with an ongoing web development project.
 
 ## Mobile Development <img src="https://img.icons8.com/material-sharp/50/000000/android-os.png"/>
 
@@ -84,6 +86,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [learnpython](https://www.learnpython.org/) -Website Which is generously supported by DataCamp where you can learn python.
 - [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) -Website that contain various resources for learning python.
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)-  Introduction to Python on Microsoft Docs.
+- [DevProjects](https://www.codementor.io/projects/python)-Free developer community platform to learn Python by budiling projects that have real-world applications. 
 
 ## Learn Git <img src="https://img.icons8.com/wired/64/000000/compare-git.png"/>
 
@@ -93,6 +96,23 @@ This collection provides a list of educational resources for Software Engineers.
 - [GraphQLExplorer](https://lnkd.in/g9vh2bn) -Github GraphQL Explorer 
 - [APIS and documentation](https://lnkd.in/gWjAsSp) -For Github REST APIs, the best resource is the documentation 
 - [Github tutorial](https://youtu.be/BCQHnlnPusY)
+- [Git Tutorial Tutorialspoint](https://www.tutorialspoint.com/git/index.htm)
+- [Git documentation](https://git-scm.com/docs/git#_git_commands)
+
+## Learn Data Structures and Algorithms
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
+- [Programiz](https://www.programiz.com/dsa)
+- [Codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+- [Tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+- [DSA problems Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view)
+
+## Learn Dynamic Programming
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
+- [Tutorialspoint](https://www.tutorialspoint.com/introduction-to-dynamic-programming)
+- [Codechef](https://www.codechef.com/wiki/tutorial-dynamic-programming)
+- [Topcoder](https://www.topcoder.com/thrive/articles/Dynamic%20Programming:%20From%20Novice%20to%20Advanced)
 
 ## Learn regular expressions <img src="https://img.icons8.com/officexs/16/000000/regex.png"/>
 
@@ -114,7 +134,16 @@ This collection provides a list of educational resources for Software Engineers.
 ## Video Courses 
 - [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
 - [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
-
+- [Git and Github](https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi)
+- [C language for Beginners](https://www.youtube.com/playlist?list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW)
+- [C++ for Beginners](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
+- [Python tutorial for Absolute Beginners](https://www.youtube.com/watch?v=aqvDTCpNRek&list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+- [Web Development](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg)
+- [Java](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q)
+- [PHP](https://www.youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR)
+- [Android Development](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd)
+- [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
+- [Dynamic Programming](https://www.youtube.com/watch?v=24hk2qW_BCU&list=PLb3g_Z8nEv1h1w6MI8vNMuL_wrI0FtqE7)
 
 ## MORE RESOURCES COMING SOON!
 
@@ -136,6 +165,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://slimcoder.wordpress.com"><img src="https://avatars.githubusercontent.com/u/28563357?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Slim Coder</b></sub></a><br /><a href="#content-MRslimcoder" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/shuklaritvik06"><img src="https://avatars.githubusercontent.com/u/72812470?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ritvik Shukla</b></sub></a><br /><a href="#content-shuklaritvik06" title="Content">🖋</a></td>
+    <td align="center"><a href="https://noorinsakhi.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>NoorinSakhi</b></sub></a><br /><a href="#content-NoorinSakhi" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/christineshu"><img src="https://avatars.githubusercontent.com/u/56527724?v=4?s=100" width="100px;" alt=""/><br /><sub><b>christineshu</b></sub></a><br /><a href="#content-christineshu" title="Content">🖋</a></td>
   </tr>
 </table>
 
