@@ -63,6 +63,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [FrontendMentor](https://www.frontendmentor.io)- Improve your front-end skills by building real projects.Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
 - [JavascriptInfo](https://javascript.info/)-The Modern JavaScript Tutorial from the basics to advanced topics with simple, but detailed explanations.
 - [Bezkoder](https://bezkoder.com/)- Provides a series of tutorials and articles on different web technologies.
+- [CS50 Web](https://cs50.harvard.edu/web/2020/)- Diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL.
 - [Codementor](https://www.codementor.io/web-dev-experts)- Improve your coding skills or get help with an ongoing web development project.
 
 ## Mobile Development <img src="https://img.icons8.com/material-sharp/50/000000/android-os.png"/>
