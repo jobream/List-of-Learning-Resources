@@ -1,6 +1,6 @@
 # LIST OF AWESOME LEARNING RESOURCES 🚀
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This collection provides a list of educational resources for Software Engineers. Feel free to add your favorite resources as well and help others in their journey of learning.
@@ -169,6 +169,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://noorinsakhi.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>NoorinSakhi</b></sub></a><br /><a href="#content-NoorinSakhi" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/christineshu"><img src="https://avatars.githubusercontent.com/u/56527724?v=4?s=100" width="100px;" alt=""/><br /><sub><b>christineshu</b></sub></a><br /><a href="#content-christineshu" title="Content">🖋</a></td>
     <td align="center"><a href="https://kerinpithawala.netlify.app/"><img src="https://avatars.githubusercontent.com/u/46436993?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kerin Pithawala</b></sub></a><br /><a href="#content-KerinPithawala" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/aremis9"><img src="https://avatars.githubusercontent.com/u/72900045?v=4?s=100" width="100px;" alt=""/><br /><sub><b>aremis9</b></sub></a><br /><a href="#content-aremis9" title="Content">🖋</a></td>
   </tr>
 </table>
 
