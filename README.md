@@ -99,6 +99,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 - [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
+- [RegexOne](https://t.co/i1ZYUIQoZ8?amp=1)- Learn Regular Expressions with simple, interactive exercises .
 
 ## Communities
 
