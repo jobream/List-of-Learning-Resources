@@ -43,6 +43,12 @@ This collection provides a list of educational resources for Software Engineers.
 - [PythonChallenge](https://dare2compete.com/)- A set of riddles that require a little bit of Python programming to be solved
 - [Edabit](https://dare2compete.com/)- A better way to learn programming, you learn to code with 10,000+ interative challenges
 - [CodingBat](https://codingbat.com/)- A free site of live coding problems to build coding skill in Java and Python
+- [Code Jam](https://codingcompetitions.withgoogle.com/codejam)- Google’s longest running global coding competition, Code Jam, calls on programmers around the world to solve challenging, algorithmic puzzles against the clock. 
+- [Kick Start](https://codingcompetitions.withgoogle.com/kickstart)- Kick Start offers coders around the world the chance to develop and hone their programming skills through online-hosted competition rounds
+- [Reply Challenges](https://challenges.reply.com/tamtamy/home.action)- A series of challenges created by Replyers and open to anyone who loves technology and online competitions
+- [interviewing.io](https://interviewing.io/)- Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies
+- [Pramp](https://www.pramp.com/#/)- Practice Mock Interviews & Coding Challenges
+- [Testdome](https://www.testdome.com/)- Programming snd Interview Online Assessment Tests
 
 ## Web Development <img src="https://img.icons8.com/material-sharp/24/000000/html-5.png"/>
 
