@@ -37,6 +37,12 @@ This collection provides a list of educational resources for Software Engineers.
 - [Advent of Code](https://adventofcode.com/)- A yearly set of coding challenges that published with leaderboards
 - [Geeks for geeks](https://www.geeksforgeeks.org/)- A computer science portal for geeks
 - [A2 Online Judge](https://a2oj.com/)- A curated list of problems sequenced in ladder to practice and master competitive coding.
+- [Codility](https://codility.com/programmers/)- A platform to discover the ins and outs of coding by taking our hands-on coding lessons
+- [JudoCoder](https://judocoder.com/challenges/)- An online interview preparation and practice platform using which you can improve your coding and programming skills
+- [Dare2Compete](https://dare2compete.com/)- A global platform that provides students, professionals, and educators opportunities across all domains to engage with institutes and companies by participating and competing in intellectual gamified engagements 
+- [PythonChallenge](https://dare2compete.com/)- A set of riddles that require a little bit of Python programming to be solved
+- [Edabit](https://dare2compete.com/)- A better way to learn programming, you learn to code with 10,000+ interative challenges
+- [CodingBat](https://codingbat.com/)- A free site of live coding problems to build coding skill in Java and Python
 
 ## Web Development <img src="https://img.icons8.com/material-sharp/24/000000/html-5.png"/>
 
