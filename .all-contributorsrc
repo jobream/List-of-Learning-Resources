@@ -102,6 +102,15 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "kendoriddy",
+      "name": "Kehinde Onifade",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86082070?v=4",
+      "profile": "https://github.com/kendoriddy",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
