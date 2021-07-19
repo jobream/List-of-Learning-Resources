@@ -56,6 +56,16 @@ This collection provides a list of educational resources for Software Engineers.
 - [Interview Cake](https://www.interviewcake.com/)- A study tool that preps software engineering candidates for programming interviews
 - [CodeGym](https://codegym.cc/)- An online course for learning Java programming from scratch
 - [CodePen](https://codepen.io/challenges)- A platform that offers fun opportunities for leveling up your skills by building things
+- [CodePen](https://codepen.io/challenges)- A platform that offers fun opportunities for leveling up your skills by building things
+- [HireVue](https://www.hirevue.com/)- Helps global enterprises gain a competitive advantage in the modern talent marketplace with video interviewing software, conversational AI, and pre-hire assessments
+- [Geektastic](https://geektastic.com/)- Technical Assesment & Code Challenge Platform
+- [Halite](https://www.halite.io/)- An artificial intelligence programming challenge created by Two Sigma, in which players build bots using the coding language of their choice to compete in an original online multiplayer game
+- [Practity](https://practity.com/)- Python Practice Problems For Beginners
+- [Codeabbey](https://www.codeabbey.com/)- Collection of programming problems to practice solving, learn to program and code, and win certificates
+- [Kattis](https://open.kattis.com/)- Here you can find hundreds of programming problems to solve
+- [Screeps](https://screeps.com/)- It's an open-source game for programmers, wherein the core mechanic is programming your units' AI. You control your colony by writing JavaScript.
+- [Advent Of Code](https://adventofcode.com/)- An Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like
+
 
 ## Web Development <img src="https://img.icons8.com/material-sharp/24/000000/html-5.png"/>
 
