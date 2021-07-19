@@ -49,6 +49,13 @@ This collection provides a list of educational resources for Software Engineers.
 - [interviewing.io](https://interviewing.io/)- Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies
 - [Pramp](https://www.pramp.com/#/)- Practice Mock Interviews & Coding Challenges
 - [Testdome](https://www.testdome.com/)- Programming snd Interview Online Assessment Tests
+- [Rosalind](http://rosalind.info/problems/locations/)- A platform for learning bioinformatics and programming through problem solving
+- [Kaggle](https://www.kaggle.com/)- Your machine learning and data science community
+- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)- A site that provides programming practice and knowledge sharing
+- [Programmr](http://www.programmr.com/)- An online interactive lab for students and enthusiasts to learn, practice and become proficient in programming
+- [Interview Cake](https://www.interviewcake.com/)- A study tool that preps software engineering candidates for programming interviews
+- [CodeGym](https://codegym.cc/)- An online course for learning Java programming from scratch
+- [CodePen](https://codepen.io/challenges)- A platform that offers fun opportunities for leveling up your skills by building things
 
 ## Web Development <img src="https://img.icons8.com/material-sharp/24/000000/html-5.png"/>
 
