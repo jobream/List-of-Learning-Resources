@@ -62,6 +62,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [Design-Resources](https://github.com/bradtraversy/design-resources-for-developers)- Curated list of design resources from stock photos, Web templates, CSS frameworks, UI libraries, tools and much more
 - [FrontendMentor](https://www.frontendmentor.io)- Improve your front-end skills by building real projects.Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
 - [JavascriptInfo](https://javascript.info/)-The Modern JavaScript Tutorial from the basics to advanced topics with simple, but detailed explanations.
+- [html.com](https://html.com/)-This website contains a full HTML tutorial
 - [Bezkoder](https://bezkoder.com/)- Provides a series of tutorials and articles on different web technologies.
 - [Deep Dive Into Modern Web Development](https://fullstackopen.com/en/about/)-  This course serves as an introduction to modern web application development with JavaScript.
 - [CS50 Web](https://cs50.harvard.edu/web/2020/)- Diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL.
