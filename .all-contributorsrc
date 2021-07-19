@@ -92,6 +92,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "AvidCoder101",
+      "name": "AvidCoder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70807684?v=4",
+      "profile": "https://github.com/AvidCoder101",
+      "contributions": [
+        "content",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
