@@ -1,8 +1,13 @@
 # LIST OF AWESOME LEARNING RESOURCES 🚀
 
-This collection provides a list of educational resources for Software Engineers. Feel free to add your favorite resources as well and help others in their journey of learning.
+This collection provides a list of educational resources for Software Engineers. 
 
-## Competitive Programming <img src="https://img.icons8.com/material-sharp/24/000000/programming.png"/>
+**Feel free to add your favorite resources as well and help others in their journey of learning.**
+
+## Competitive Programming ![programming](https://img.icons8.com/material-sharp/24/000000/programming.png)
+
+### Here are just a few from our huge range...
+## See Here for the full Page - [Competitive Programming](/Contribute/List-of-Learning-Resources/Competitive%20Programming.md)
 
 - [HackerRank](https://www.hackerrank.com/)- Solve code challenges to prepare for programming interviews.
 - [HackerEarth](https://www.hackerearth.com/)- Solve code challenges to help companies find innovative solutions for their businesses.
@@ -10,56 +15,20 @@ This collection provides a list of educational resources for Software Engineers.
 - [Topcoder](https://www.topcoder.com/)- Participate in code challenges and help solve real-world problems.
 - [Codeforces](https://codeforces.com/)- Russian website dedicated to competitive programming.
 - [Project Euler](https://projecteuler.net/)- Solve computational and mathematical problems using your programming skills.
-- [Spoj](https://www.spoj.com/)- Programming contests with online judging system.
-- [Interview Bit](https://www.interviewbit.com/)- A platform to learn and practice coding interview questions.
-- [VisuAlgo](https://visualgo.net/en)- Visualizing data structures and algorithms through animation.
-- [Leetcode](https://leetcode.com/)- Develop programming skills for your next interview.
-- [FireCode](https://www.firecode.io/)- An online coding interview preparation.
-- [CodeWars](https://www.codewars.com/)- Code challenges platform to level up your skills.
-- [CodeinGame](https://www.codingame.com/start)- Learn to code by playing games.
-- [DailyProgrammer](https://www.hackerrank.com/)- Solutions to programming challenges, peer-reviewed with community feedback.
-- [CodeSignal](https://codesignal.com/)- Practice programming and land a job.
-- [Uva](https://onlinejudge.org/)- Programming contests with online judging system.
-- [StanFord ACM ICPC](https://github.com/jaehyunp/stanfordacm)- Stanford Notebook provides printable templates usable during online/on-site contests.
-- [Exercism](https://exercism.io/)- Solve programming challenges from your terminal.
-- [DailyCodingProblem](https://www.dailycodingproblem.com/)- Get exceptionally good at coding interviews by solving one problem every day.
-- [acmp.ru](https://acmp.ru/)- Russian programming contests
-- [Timus Online Judge](https://acm.timus.ru/?locale=en)- Programming contests with online judging system.
-- [DMOJ: Modern Online Judge](https://dmoj.ca/)- Contest platform and archive of programming problems.
-- [Rose Code](https://www.rosecode.net/)- Programming challenges with leaderboards and blog posts.
-- [Coderbyte](https://coderbyte.com/)- Programming challenges and specific routes to help learn specific skills.
-- [Code Golf](https://code.golf/)- Programming challenges with individual leaderboards for problems.
-- [Daily Coding Problem](https://www.dailycodingproblem.com/)- Get emailed a new coding problem every day.
-- [Halite](https://halite.io/)- Create AI to face off against other people’s AI. More specialized in AI.
-- [Advent of Code](https://adventofcode.com/)- A yearly set of coding challenges that published with leaderboards
-- [Geeks for geeks](https://www.geeksforgeeks.org/)- A computer science portal for geeks
-- [A2 Online Judge](https://a2oj.com/)- A curated list of problems sequenced in ladder to practice and master competitive coding.
+
+-------------------------------------------------------------
 
 ## Web Development <img src="https://img.icons8.com/material-sharp/24/000000/html-5.png"/>
+### Here is only a small percentage of our selections!
+## See Here for the full Page - [Web Development](./Web%20Development.md)
 
 - [Learn Enough to Be Dangerous](https://www.learnenough.com/)- Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
 - [FreeCodeCamp](https://www.freecodecamp.org/)- Coding tutorials and challenges.
 - [Thimble](https://foundation.mozilla.org/en/artifacts/thimble/)- Free online code editor, web server, web browser & developer tools.
 - [NodeSchool](https://nodeschool.io/)-Open source workshops that teach web software skills.
 - [The Odin Project](https://www.theodinproject.com/)-A full free open source coding curriculum.
-- [Egghead](https://egghead.io/)- Video tutorials on popular JavaScript frameworks.
-- [Codeacademy](https://www.codecademy.com/)- Free and premium interactive tutorials for various languages.
-- [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn)-Web development articles by Mozilla.
-- [W3Schools](https://www.w3schools.com/)-Tutorials on HTML, CSS, JavaScript and more.
-- [Eloguent Javascript](https://eloquentjavascript.net/)- An online book about JavaScript.
-- [Coder-Coder](https://coder-coder.com/)- Tutorials on Web Development from basics including HTML, CSS, JavaScript and more.
-- [HTML Dog](https://www.htmldog.com/)- HTML, CSS and JavaScript courses - all the languages you need to build a website.
-- [CodeCraft](https://codecraft.tv/)- Provide Web Development Courses on JavaScript, AngularJS, Angular 5 for free.
-- [Scrimba](https://scrimba.com/)- Provides Web Development Courses with a unique feature of live interaction with the instructor’s code.
-- [FrontendMasters](https://frontendmasters.com/)- In-depth and advanced video tutorials on Frontend Devlopment from experts in the industry.
-- [Education Ecosystem](https://www.education-ecosystem.com/)- Watch professional developers build end-to-end Projects.
-- [Scotch](https://scotch.io/)- Provides a series of tutorials and articles on different web technologies.
-- [Css-tricks](https://css-tricks.com/)- Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
-- [Laracasts](https://laracasts.com/)- Best Place to learn PHP & Laravel Development.Also contains Vue tutorial and many more.
-- [Design-Resources](https://github.com/bradtraversy/design-resources-for-developers)- Curated list of design resources from stock photos, Web templates, CSS frameworks, UI libraries, tools and much more
-- [FrontendMentor](https://www.frontendmentor.io)- Improve your front-end skills by building real projects.Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
-- [JavascriptInfo](https://javascript.info/)-The Modern JavaScript Tutorial from the basics to advanced topics with simple, but detailed explanations.
-- [Bezkoder](https://bezkoder.com/)- Provides a series of tutorials and articles on different web technologies.
+
+------------------------------------------------------------------------------------
 
 ## Mobile Development <img src="https://img.icons8.com/material-sharp/50/000000/android-os.png"/>
 
