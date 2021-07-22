@@ -43,6 +43,8 @@ This collection provides a list of educational resources for Software Engineers.
 ## Mobile Development 
 <img src="https://image.flaticon.com/icons/png/128/2037/2037075.png" height="60px"/>
 
+## Here is 5 from our huge range...
+
 - [Udacity Android Nanodegree ](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)- Students can also apply for scholarship given by Google.
 - [Android Developer Training](https://developer.android.com/courses)- Range of courses to help you build Android apps.
 - [Vogella](https://www.vogella.com/tutorials/android.html)- Tutorials about Android development.
@@ -74,6 +76,8 @@ complete beginners.
 
 > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
+## Here is 5 from our huge range...
+
 - [pcottle-repository](https://github.com/pcottle/learnGitBranching) - This is a git repository visualizer, sandbox, and a series of educational tutorials and challenges.
 - [Course](https://lnkd.in/gfEaa2b) -Version Control Git course on Coursera offered.
 - [GitHub](https://lab.github.com/)- GitHub labs
@@ -88,6 +92,8 @@ complete beginners.
 <img src="https://img.icons8.com/officexs/16/000000/regex.png" height="40px"/>
 
 > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+
+## Here is 5 from our huge range...
 
 - [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
@@ -117,6 +123,8 @@ complete beginners.
 
 > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
+## Here is 5 from our huge range...
+
 - [Cracking the Coding Interview](https://www.google.com/url?sa=t&source=web&rct=j&url=https://cin.ufpe.br/~fbma/Crack/Cracking%2520the%2520Coding%2520Interview%2520189%2520Programming%2520Questions%2520and%2520Solutions.pdf&ved=2ahUKEwjypc602JnuAhVUuXEKHd5SCnYQFjAAegQIARAB&usg=AOvVaw3vI5dXqJ_ptFWhjqeUJeY_) - This book is about coding interviews.
 
 -------------------------------
@@ -124,6 +132,8 @@ complete beginners.
 ## Video Courses 
 
 <img src="https://image.flaticon.com/icons/png/128/2096/2096018.png" height="60px">
+
+## Here is 5 from our huge range...
 
 - [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
 - [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
