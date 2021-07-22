@@ -21,7 +21,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [Codeforces](https://codeforces.com/)- Russian website dedicated to competitive programming.
 - [Project Euler](https://projecteuler.net/)- Solve computational and mathematical problems using your programming skills.
 
-## See Here for the full Page - [Competitive Programming]()
+## See Here for the full Page - [Competitive Programming](./Competitive%20Programming.md)
 
 
 
