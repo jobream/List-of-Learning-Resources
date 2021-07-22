@@ -1,6 +1,6 @@
 <div align="center"> <img src="./JobreamIcon.png"/> </div>
 
-# LIST OF AWESOME LEARNING RESOURCES 🚀  
+<h1 style="text-align: center">LIST OF AWESOME LEARNING RESOURCES 🚀 </h1>
 
 This collection provides a list of educational resources for Software Engineers. 
 
@@ -43,6 +43,8 @@ This collection provides a list of educational resources for Software Engineers.
 ## Mobile Development 
 <img src="https://image.flaticon.com/icons/png/128/2037/2037075.png" height="60px"/>
 
+## Here is 5 from our huge range...
+
 - [Udacity Android Nanodegree ](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)- Students can also apply for scholarship given by Google.
 - [Android Developer Training](https://developer.android.com/courses)- Range of courses to help you build Android apps.
 - [Vogella](https://www.vogella.com/tutorials/android.html)- Tutorials about Android development.
@@ -74,6 +76,8 @@ complete beginners.
 
 > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
+## Here is 5 from our huge range...
+
 - [pcottle-repository](https://github.com/pcottle/learnGitBranching) - This is a git repository visualizer, sandbox, and a series of educational tutorials and challenges.
 - [Course](https://lnkd.in/gfEaa2b) -Version Control Git course on Coursera offered.
 - [GitHub](https://lab.github.com/)- GitHub labs
@@ -89,6 +93,8 @@ complete beginners.
 
 > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
+## Here is 2 from our huge range...
+
 - [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
 
@@ -98,16 +104,15 @@ complete beginners.
 
 <img src="https://t4.ftcdn.net/jpg/02/41/60/35/240_F_241603570_MR6B6tQjTuREQC0EIgc7l2KvVNJzsSp5.jpg" height="60px">
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+## Here is 5 from our huge range...
 
-| Resource                                                                                     | Description                                                          |
-| -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi)               | This is community of freecodecamp from Karachi, Pakistan             |
-| [Golang Pakistan](https://www.facebook.com/groups/2547735885480597)                          | This is community of Golang from Pakistan.                           |
-| [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity) | This is community of Hyderabad, Pakistan for developers.             |
-| [Code With Concepts](https://www.facebook.com/groups/codewithconcepts)                       | This is community of teaching programming to newbie.                 |
-| [Mentors Without Borders](https://www.facebook.com/MentorsWB)                                | This is community of giving mentorship for free to students.         |
-| [Google Developers Community Karachi](https://www.facebook.com/groups/GDGKolachi)            | This is community of Google Developers Group from Karachi, Pakistan. |
+- [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi)- This is community of freecodecamp from Karachi, Pakistan.
+- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597)- This is community of Golang from Pakistan.                         
+- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity)This is community of Hyderabad, Pakistan for developers.           
+- [Code With Concepts](https://www.facebook.com/groups/codewithconcepts)- This is community of teaching programming to newbie.
+- [Mentors Without Borders](https://www.facebook.com/MentorsWB) -This is community of giving mentorship for free to students.
+
+## To see it all, go here: [See more Communities](./Communities.md)
 
 ----------------------------------------
 
@@ -118,6 +123,8 @@ complete beginners.
 
 > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
+## Here is 1 from our huge range...
+
 - [Cracking the Coding Interview](https://www.google.com/url?sa=t&source=web&rct=j&url=https://cin.ufpe.br/~fbma/Crack/Cracking%2520the%2520Coding%2520Interview%2520189%2520Programming%2520Questions%2520and%2520Solutions.pdf&ved=2ahUKEwjypc602JnuAhVUuXEKHd5SCnYQFjAAegQIARAB&usg=AOvVaw3vI5dXqJ_ptFWhjqeUJeY_) - This book is about coding interviews.
 
 -------------------------------
@@ -125,6 +132,8 @@ complete beginners.
 ## Video Courses 
 
 <img src="https://image.flaticon.com/icons/png/128/2096/2096018.png" height="60px">
+
+## Here is 2 from our huge range...
 
 - [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
 - [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
