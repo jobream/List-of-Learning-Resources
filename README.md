@@ -79,7 +79,7 @@ complete beginners.
 - [GitHub](https://lab.github.com/)- GitHub labs
 - [GraphQLExplorer](https://lnkd.in/g9vh2bn) -Github GraphQL Explorer 
 - [APIS and documentation](https://lnkd.in/gWjAsSp) -For Github REST APIs, the best resource is the documentation 
-- [Github tutorial](https://youtu.be/BCQHnlnPusY)
+- [Github tutorial](https://youtu.be/BCQHnlnPusY) - Videos to Learn Github, step by step.
 
 -------------------------------------------------
 
