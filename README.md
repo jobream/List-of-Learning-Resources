@@ -12,6 +12,8 @@ This collection provides a list of educational resources for Software Engineers.
 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621230.png" height="60px">
 
+> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+
 ### Here are just 5 from our huge range...
 
 - [HackerRank](https://www.hackerrank.com/)- Solve code challenges to prepare for programming interviews.
@@ -26,6 +28,8 @@ This collection provides a list of educational resources for Software Engineers.
 
 ## Web Development 
 <img src="https://image.flaticon.com/icons/png/128/234/234073.png" height="40px"/>
+
+> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
 ### Here are just 5 from our huge range...
 
@@ -57,6 +61,8 @@ This collection provides a list of educational resources for Software Engineers.
 
 ## Learn Python 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621303.png" height="60px"/>
+
+> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
 ### Here are just 5 from our huge range...
 
