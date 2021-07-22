@@ -1,4 +1,4 @@
-![icon](./JobreamIcon.png)
+<div align="center"> <img src="./JobreamIcon.png"/> </div>
 
 # LIST OF AWESOME LEARNING RESOURCES 🚀  
 
