@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/68013560?s=200&v=4" height="70px"> **Jobream**
+![icon](./JobreamIcon.png)
 
 # LIST OF AWESOME LEARNING RESOURCES 🚀  
 
@@ -12,25 +12,22 @@ This collection provides a list of educational resources for Software Engineers.
 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621230.png" height="60px">
 
-### Here are just a few from our huge range...
+### Here are just 5 from our huge range...
 
 - [HackerRank](https://www.hackerrank.com/)- Solve code challenges to prepare for programming interviews.
 - [HackerEarth](https://www.hackerearth.com/)- Solve code challenges to help companies find innovative solutions for their businesses.
 - [CodeChef](https://www.codechef.com/)- Non-profit competitive programming platform.
 - [Topcoder](https://www.topcoder.com/)- Participate in code challenges and help solve real-world problems.
 - [Codeforces](https://codeforces.com/)- Russian website dedicated to competitive programming.
-- [Project Euler](https://projecteuler.net/)- Solve computational and mathematical problems using your programming skills.
 
 ## See Here for the full Page - [Competitive Programming](./Competitive%20Programming.md)
-
-
 
 -------------------------------------------------------------
 
 ## Web Development 
 <img src="https://image.flaticon.com/icons/png/128/234/234073.png" height="40px"/>
 
-### Here is only a small percentage of our selections!
+### Here are just 5 from our huge range...
 
 - [Learn Enough to Be Dangerous](https://www.learnenough.com/)- Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
 - [FreeCodeCamp](https://www.freecodecamp.org/)- Coding tutorials and challenges.
@@ -59,13 +56,14 @@ This collection provides a list of educational resources for Software Engineers.
 ## Learn Python 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621303.png" height="60px"/>
 
-### Here is a few for you to see!
+### Here are just 5 from our huge range...
 
 - [Coursera.org](https://www.coursera.org/) -Coursera is one of the good resources to do python courses from. You need to register for anything.
 complete beginners.
 - [RealPython](https://realpython.com/start-here/) -Website where you can learn python that for beginners.
 - [learnpython](https://www.learnpython.org/) -Website Which is generously supported by DataCamp where you can learn python.
 - [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) -Website that contain various resources for learning python.
+- | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) -This is one of the websites where you can learn python.
   
 ## To see it all, go here: [Learn Python](./Learn%20Python.md)
 
@@ -147,9 +145,7 @@ Pull requests are welcome 👍. For major changes, please open an issue first to
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
 ------------------------------------
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
