@@ -31,3 +31,4 @@
 | [Advent of Code](https://adventofcode.com/)                  | A yearly set of coding challenges that published with leaderboards                        |
 | [Geeks for geeks](https://www.geeksforgeeks.org/)            | A computer science portal for geeks                                                       |
 | [A2 Online Judge](https://a2oj.com/)                         | A curated list of problems sequenced in ladder to practice and master competitive coding. |
+| [Project Euler](https://projecteuler.net/)                   | Solve computational and mathematical problems using your programming skills.              |

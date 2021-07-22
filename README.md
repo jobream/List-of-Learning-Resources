@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/68013560?s=200&v=4" height="70px"> **Jobream**
+![icon](./JobreamIcon.png)
 
 # LIST OF AWESOME LEARNING RESOURCES 🚀  
 
@@ -12,25 +12,22 @@ This collection provides a list of educational resources for Software Engineers.
 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621230.png" height="60px">
 
-### Here are just a few from our huge range...
+### Here are just 5 from our huge range...
 
 - [HackerRank](https://www.hackerrank.com/)- Solve code challenges to prepare for programming interviews.
 - [HackerEarth](https://www.hackerearth.com/)- Solve code challenges to help companies find innovative solutions for their businesses.
 - [CodeChef](https://www.codechef.com/)- Non-profit competitive programming platform.
 - [Topcoder](https://www.topcoder.com/)- Participate in code challenges and help solve real-world problems.
 - [Codeforces](https://codeforces.com/)- Russian website dedicated to competitive programming.
-- [Project Euler](https://projecteuler.net/)- Solve computational and mathematical problems using your programming skills.
 
 ## See Here for the full Page - [Competitive Programming](./Competitive%20Programming.md)
-
-
 
 -------------------------------------------------------------
 
 ## Web Development 
 <img src="https://image.flaticon.com/icons/png/128/234/234073.png" height="40px"/>
 
-### Here is only a small percentage of our selections!
+### Here are just 5 from our huge range...
 
 - [Learn Enough to Be Dangerous](https://www.learnenough.com/)- Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
 - [FreeCodeCamp](https://www.freecodecamp.org/)- Coding tutorials and challenges.
@@ -59,13 +56,14 @@ This collection provides a list of educational resources for Software Engineers.
 ## Learn Python 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621303.png" height="60px"/>
 
-### Here is a few for you to see!
+### Here are just 5 from our huge range...
 
 - [Coursera.org](https://www.coursera.org/) -Coursera is one of the good resources to do python courses from. You need to register for anything.
 complete beginners.
 - [RealPython](https://realpython.com/start-here/) -Website where you can learn python that for beginners.
 - [learnpython](https://www.learnpython.org/) -Website Which is generously supported by DataCamp where you can learn python.
 - [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) -Website that contain various resources for learning python.
+- | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) -This is one of the websites where you can learn python.
   
 ## To see it all, go here: [Learn Python](./Learn%20Python.md)
 
@@ -147,36 +145,4 @@ Pull requests are welcome 👍. For major changes, please open an issue first to
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
 ------------------------------------
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://slimcoder.wordpress.com"><img src="https://avatars.githubusercontent.com/u/28563357?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Slim Coder</b></sub></a><br /><a href="#content-MRslimcoder" title="Content">🖋</a> <a href="https://github.com/jobream/List-of-Learning-Resources/issues?q=author%3AMRslimcoder" title="Bug reports">🐛</a> <a href="#blog-MRslimcoder" title="Blogposts">📝</a> <a href="https://github.com/jobream/List-of-Learning-Resources/commits?author=MRslimcoder" title="Code">💻</a> <a href="https://github.com/jobream/List-of-Learning-Resources/commits?author=MRslimcoder" title="Documentation">📖</a> <a href="https://github.com/jobream/List-of-Learning-Resources/pulls?q=is%3Apr+reviewed-by%3AMRslimcoder" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/jobream/List-of-Learning-Resources/commits?author=MRslimcoder" title="Tests">⚠️</a> <a href="#example-MRslimcoder" title="Examples">💡</a></td>
-    <td align="center"><a href="https://github.com/shuklaritvik06"><img src="https://avatars.githubusercontent.com/u/72812470?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ritvik Shukla</b></sub></a><br /><a href="#content-shuklaritvik06" title="Content">🖋</a></td>
-    <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#content-CodingSpecies" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/christineshu"><img src="https://avatars.githubusercontent.com/u/56527724?v=4?s=100" width="100px;" alt=""/><br /><sub><b>christineshu</b></sub></a><br /><a href="#content-christineshu" title="Content">🖋</a></td>
-    <td align="center"><a href="https://kerinpithawala.netlify.app/"><img src="https://avatars.githubusercontent.com/u/46436993?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kerin Pithawala</b></sub></a><br /><a href="#content-KerinPithawala" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/aremis9"><img src="https://avatars.githubusercontent.com/u/72900045?v=4?s=100" width="100px;" alt=""/><br /><sub><b>aremis9</b></sub></a><br /><a href="#content-aremis9" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/XmchxUp"><img src="https://avatars.githubusercontent.com/u/39235427?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Huayang Sun</b></sub></a><br /><a href="#content-XmchxUp" title="Content">🖋</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Mannuel25"><img src="https://avatars.githubusercontent.com/u/68563757?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tanimowo Emmanuel</b></sub></a><br /><a href="#content-Mannuel25" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/AvidCoder101"><img src="https://avatars.githubusercontent.com/u/70807684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AvidCoder</b></sub></a><br /><a href="#content-AvidCoder101" title="Content">🖋</a> <a href="https://github.com/jobream/List-of-Learning-Resources/commits?author=AvidCoder101" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/kendoriddy"><img src="https://avatars.githubusercontent.com/u/86082070?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kehinde Onifade</b></sub></a><br /><a href="#content-kendoriddy" title="Content">🖋</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
