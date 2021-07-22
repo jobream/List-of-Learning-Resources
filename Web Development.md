@@ -1,6 +1,8 @@
 # Web Development.
+<img src="https://image.flaticon.com/icons/png/128/234/234073.png" height="40px"/>
+
 ## All things Javascript, CSS and HTML.
-> If you think there is a resource which you think others would benefit on, fork, andd your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 <br>
 
 | Resource                                                                            | Description                                                                                                                                          |
