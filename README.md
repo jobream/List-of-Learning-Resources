@@ -98,7 +98,7 @@ complete beginners.
 
 <img src="https://t4.ftcdn.net/jpg/02/41/60/35/240_F_241603570_MR6B6tQjTuREQC0EIgc7l2KvVNJzsSp5.jpg" height="60px">
 
-## Here is 5 from our list.
+## Here is 5 from our huge range...
 
 - [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi)- This is community of freecodecamp from Karachi, Pakistan.
 - [Golang Pakistan](https://www.facebook.com/groups/2547735885480597)- This is community of Golang from Pakistan.                         
