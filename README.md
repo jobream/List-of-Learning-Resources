@@ -1,6 +1,6 @@
 ![icon](./JobreamIcon.png)
 
-# LIST OF AWESOME LEARNING RESOURCES 🚀  
+<h1 style="text-align: center">LIST OF AWESOME LEARNING RESOURCES 🚀 </h1>
 
 This collection provides a list of educational resources for Software Engineers. 
 
