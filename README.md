@@ -106,7 +106,7 @@ complete beginners.
 - [Code With Concepts](https://www.facebook.com/groups/codewithconcepts)- This is community of teaching programming to newbie.
 - [Mentors Without Borders](https://www.facebook.com/MentorsWB) -This is community of giving mentorship for free to students.
 
-## To see it all, go here: [Learn Python](./Communities.md)
+## To see it all, go here: [See more Communities](./Communities.md)
 
 ----------------------------------------
 
