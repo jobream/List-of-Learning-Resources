@@ -43,6 +43,8 @@ This collection provides a list of educational resources for Software Engineers.
 ## Mobile Development 
 <img src="https://image.flaticon.com/icons/png/128/2037/2037075.png" height="60px"/>
 
+> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+
 ## Here is 5 from our huge range...
 
 - [Udacity Android Nanodegree ](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)- Students can also apply for scholarship given by Google.
@@ -50,8 +52,6 @@ This collection provides a list of educational resources for Software Engineers.
 - [Vogella](https://www.vogella.com/tutorials/android.html)- Tutorials about Android development.
 - [Android Hive](https://nodeschool.io/)-Android tutorials blog.
 - [iOS development ](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)-Build your first iOS app with an Udacity course.
-
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
 ---------------------------------
 
@@ -133,15 +133,14 @@ complete beginners.
 
 <img src="https://image.flaticon.com/icons/png/128/2096/2096018.png" height="60px">
 
+> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+
 ## Here is 2 from our huge range...
 
 - [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
 - [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
-
 ------------------------------------
-
 
 ## More Resources Are Coming Soon!!! 🚀🚀🚀
 
