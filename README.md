@@ -71,7 +71,7 @@ complete beginners.
 - [RealPython](https://realpython.com/start-here/) - Website where you can learn python that for beginners.
 - [learnpython](https://www.learnpython.org/) - Website Which is generously supported by DataCamp where you can learn python.
 - [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) - Website that contain various resources for learning python.
-- | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - This is one of the websites where you can learn python.
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - This is one of the websites where you can learn python.
   
 ## To see it all, go here: [Learn Python](./resources/LearnPython.md)
 
