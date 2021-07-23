@@ -25,7 +25,19 @@
 - #### Join the organization
 - #### Add some more resources
 
-### 4. Add your changes 
+### 4. If resoures within README.md > 5 follow these steps :
+
+- ### Create a new MD file
+![Capture](https://user-images.githubusercontent.com/28563357/126746190-3597d725-f083-447f-b5f2-570213b833cc.PNG)
+
+- ### Add a link within README.MD for that file within related section
+![Capture2](https://user-images.githubusercontent.com/28563357/126746254-7a49a0b7-50fc-4b78-8fcd-580bc0b93b6d.PNG)
+
+- ### Add your requested resources within new MD file
+![Capture3](https://user-images.githubusercontent.com/28563357/126746301-546c5519-745a-4e5c-92bf-67ae132dce13.PNG)
+
+
+### 5. Add your changes 
 
 #### Once you have made your changes, change your directory to repo : 
 
@@ -36,7 +48,7 @@
 
 ![image of add](https://user-images.githubusercontent.com/70807684/126148907-976f7f76-6b1d-411c-ae2d-c725f8e448ad.png)
 
-### 5. Commit and push your changes : 
+### 6. Commit and push your changes : 
 
 #### Commit your changes with a message :
 
@@ -47,7 +59,7 @@
 ![image](https://user-images.githubusercontent.com/70807684/126149311-2d4a589e-e454-4346-b9dd-7a6692115896.png)
 
 
-### 6. Make a pull request :
+### 7. Make a pull request :
 
 #### Go back to your remote Forked version of the repo and click : 
 
