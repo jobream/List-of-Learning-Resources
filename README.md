@@ -1,4 +1,4 @@
-<div align="center"> <img src="./JobreamIcon.png"/> </div>
+<div align="center"> <img src="./assets/JobreamIcon.png"/> </div>
 
 <h1 style="text-align: center">LIST OF AWESOME LEARNING RESOURCES 🚀 </h1>
 
@@ -16,13 +16,13 @@ This collection provides a list of educational resources for Software Engineers.
 
 ### Here are just 5 from our huge range...
 
-- [HackerRank](https://www.hackerrank.com/)- Solve code challenges to prepare for programming interviews.
-- [HackerEarth](https://www.hackerearth.com/)- Solve code challenges to help companies find innovative solutions for their businesses.
-- [CodeChef](https://www.codechef.com/)- Non-profit competitive programming platform.
-- [Topcoder](https://www.topcoder.com/)- Participate in code challenges and help solve real-world problems.
-- [Codeforces](https://codeforces.com/)- Russian website dedicated to competitive programming.
+- [HackerRank](https://www.hackerrank.com/) - Solve code challenges to prepare for programming interviews.
+- [HackerEarth](https://www.hackerearth.com/) - Solve code challenges to help companies find innovative solutions for their businesses.
+- [CodeChef](https://www.codechef.com/) - Non-profit competitive programming platform.
+- [Topcoder](https://www.topcoder.com/) - Participate in code challenges and help solve real-world problems.
+- [Codeforces](https://codeforces.com/) - Russian website dedicated to competitive programming.
 
-## See Here for the full Page - [Competitive Programming](./Competitive%20Programming.md)
+## To see it all, go here: [Competitive Programming](./resources/CompetitiveProgramming.md)
 
 -------------------------------------------------------------
 
@@ -33,13 +33,13 @@ This collection provides a list of educational resources for Software Engineers.
 
 ### Here are just 5 from our huge range...
 
-- [Learn Enough to Be Dangerous](https://www.learnenough.com/)- Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
-- [FreeCodeCamp](https://www.freecodecamp.org/)- Coding tutorials and challenges.
-- [Thimble](https://foundation.mozilla.org/en/artifacts/thimble/)- Free online code editor, web server, web browser & developer tools.
-- [NodeSchool](https://nodeschool.io/)-Open source workshops that teach web software skills.
-- [The Odin Project](https://www.theodinproject.com/)-A full free open source coding curriculum.
+- [Learn Enough to Be Dangerous](https://www.learnenough.com/) - Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
+- [FreeCodeCamp](https://www.freecodecamp.org/) - Coding tutorials and challenges.
+- [Thimble](https://foundation.mozilla.org/en/artifacts/thimble/) - Free online code editor, web server, web browser & developer tools.
+- [NodeSchool](https://nodeschool.io/) - Open source workshops that teach web software skills.
+- [The Odin Project](https://www.theodinproject.com/) - A full free open source coding curriculum.
 
-## See Here for the full Page - [Web Development](./Web%20Development.md)
+## To see it all, go here: [Web Development](./resources/WebDevelopment.md)
 
 
 ------------------------------------------------------------------------------------
@@ -51,11 +51,11 @@ This collection provides a list of educational resources for Software Engineers.
 
 ## Here is 5 from our huge range...
 
-- [Udacity Android Nanodegree ](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801)- Students can also apply for scholarship given by Google.
-- [Android Developer Training](https://developer.android.com/courses)- Range of courses to help you build Android apps.
-- [Vogella](https://www.vogella.com/tutorials/android.html)- Tutorials about Android development.
-- [Android Hive](https://nodeschool.io/)-Android tutorials blog.
-- [iOS development ](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585)-Build your first iOS app with an Udacity course.
+- [Udacity Android Nanodegree ](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) -  Students can also apply for scholarship given by Google.
+- [Android Developer Training](https://developer.android.com/courses) - Range of courses to help you build Android apps.
+- [Vogella](https://www.vogella.com/tutorials/android.html) - Tutorials about Android development.
+- [Android Hive](https://nodeschool.io/) - Android tutorials blog.
+- [iOS development ](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) - Build your first iOS app with an Udacity course.
 
 ---------------------------------
 
@@ -66,14 +66,14 @@ This collection provides a list of educational resources for Software Engineers.
 
 ### Here are just 5 from our huge range...
 
-- [Coursera.org](https://www.coursera.org/) -Coursera is one of the good resources to do python courses from. You need to register for anything.
+- [Coursera.org](https://www.coursera.org/) - Coursera is one of the good resources to do python courses from. You need to register for anything.
 complete beginners.
-- [RealPython](https://realpython.com/start-here/) -Website where you can learn python that for beginners.
-- [learnpython](https://www.learnpython.org/) -Website Which is generously supported by DataCamp where you can learn python.
-- [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) -Website that contain various resources for learning python.
-- | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) -This is one of the websites where you can learn python.
+- [RealPython](https://realpython.com/start-here/) - Website where you can learn python that for beginners.
+- [learnpython](https://www.learnpython.org/) - Website Which is generously supported by DataCamp where you can learn python.
+- [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) - Website that contain various resources for learning python.
+- | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - This is one of the websites where you can learn python.
   
-## To see it all, go here: [Learn Python](./Learn%20Python.md)
+## To see it all, go here: [Learn Python](./resources/LearnPython.md)
 
 ------------------------------
 
@@ -85,10 +85,10 @@ complete beginners.
 ## Here is 5 from our huge range...
 
 - [pcottle-repository](https://github.com/pcottle/learnGitBranching) - This is a git repository visualizer, sandbox, and a series of educational tutorials and challenges.
-- [Course](https://lnkd.in/gfEaa2b) -Version Control Git course on Coursera offered.
-- [GitHub](https://lab.github.com/)- GitHub labs
-- [GraphQLExplorer](https://lnkd.in/g9vh2bn) -Github GraphQL Explorer 
-- [APIS and documentation](https://lnkd.in/gWjAsSp) -For Github REST APIs, the best resource is the documentation 
+- [Course](https://lnkd.in/gfEaa2b) - Version Control Git course on Coursera offered.
+- [GitHub](https://lab.github.com/) - GitHub labs
+- [GraphQLExplorer](https://lnkd.in/g9vh2bn) - Github GraphQL Explorer 
+- [APIS and documentation](https://lnkd.in/gWjAsSp) - For Github REST APIs, the best resource is the documentation 
 - [Github tutorial](https://youtu.be/BCQHnlnPusY) - Videos to Learn Github, step by step.
 
 -------------------------------------------------
@@ -114,13 +114,13 @@ complete beginners.
 
 ## Here is 5 from our huge range...
 
-- [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi)- This is community of freecodecamp from Karachi, Pakistan.
-- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597)- This is community of Golang from Pakistan.                         
-- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity)This is community of Hyderabad, Pakistan for developers.           
-- [Code With Concepts](https://www.facebook.com/groups/codewithconcepts)- This is community of teaching programming to newbie.
-- [Mentors Without Borders](https://www.facebook.com/MentorsWB) -This is community of giving mentorship for free to students.
+- [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi) - This is community of freecodecamp from Karachi, Pakistan.
+- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597) - This is community of Golang from Pakistan.                         
+- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity) - This is community of Hyderabad, Pakistan for developers.           
+- [Code With Concepts](https://www.facebook.com/groups/codewithconcepts) - This is community of teaching programming to newbie.
+- [Mentors Without Borders](https://www.facebook.com/MentorsWB) - This is community of giving mentorship for free to students.
 
-## To see it all, go here: [Communities](./Communities.md)
+## To see it all, go here: [Communities](./resources/Communities.md)
 
 ----------------------------------------
 
@@ -153,7 +153,7 @@ complete beginners.
 ## More Resources Are Coming Soon!!! 🚀🚀🚀
 
 ## Contributing
-Pull requests are welcome 👍. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome 👍. For major changes, please open an issue first to discuss what you would like to change and ready [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
 ------------------------------
 
