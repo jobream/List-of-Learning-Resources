@@ -1,4 +1,4 @@
-<link rel="favicon" type="image/png" href="./assets/favicon.png">
+<link rel="shortcut icon" type="image/png" href="./assets/favicon.png">
 
 <div align="center"> <img src="./assets/JobreamIcon.png"/> </div>
 
