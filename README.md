@@ -1,3 +1,5 @@
+<link rel="favicon" type="image/png" href="./assets/favicon.png">
+
 <div align="center"> <img src="./assets/JobreamIcon.png"/> </div>
 
 <h1 style="text-align: center">LIST OF AWESOME LEARNING RESOURCES 🚀 </h1>
