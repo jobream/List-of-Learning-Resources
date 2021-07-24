@@ -192,6 +192,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/AvidCoder101"><img src="https://avatars.githubusercontent.com/u/70807684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AvidCoder</b></sub></a><br /><a href="#content-AvidCoder101" title="Content">🖋</a> <a href="https://github.com/jobream/List-of-Learning-Resources/commits?author=AvidCoder101" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/kendoriddy"><img src="https://avatars.githubusercontent.com/u/86082070?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kehinde Onifade</b></sub></a><br /><a href="#content-kendoriddy" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Alwaz"><img src="https://avatars.githubusercontent.com/u/49204941?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alwaz</b></sub></a><br /><a href="#content-Alwaz" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/prottayislive"><img src="https://avatars.githubusercontent.com/u/70666023?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prottay Karim</b></sub></a><br /><a href="#content-prottayislive" title="Content">🖋</a></td>
   </tr>
 </table>
 
