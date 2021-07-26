@@ -68,7 +68,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
-### Here are just 5 from our huge range...
+### Here are just 6 from our huge range...
 
 - [Coursera.org](https://www.coursera.org/) - Coursera is one of the good resources to do python courses from. You need to register for anything.
 complete beginners.
@@ -76,6 +76,7 @@ complete beginners.
 - [learnpython](https://www.learnpython.org/) - Website Which is generously supported by DataCamp where you can learn python.
 - [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) - Website that contain various resources for learning python.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - This is one of the websites where you can learn python.
+- [Trinket - Hour of Python](https://hourofpython.com/) - This website is for people who prefer a hands-on learning approach with quizes and challenges.
   
 ## To see it all, go here: [Learn Python](./resources/LearnPython.md)
 
@@ -141,6 +142,7 @@ complete beginners.
 - [Data Structures and Algorithms in Python 1st ed - Goodrich](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ref=pd_sbs_9/146-7117112-3214425?pd_rd_w=u0eqq&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=GH4061FRHKTZNWK7ZJ8Y&pd_rd_r=c91ffc68-6290-4fc9-a165-950ed977867a&pd_rd_wg=hROgA&pd_rd_i=1118290275&psc=1) - This book has excellent resources on Python Data Structures.
 - [Elements of the Programming Interview in Python - Aziz](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_sbs_3/146-7117112-3214425?pd_rd_w=h1Gnk&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=3W8ND85QTCQKRJFW53AW&pd_rd_r=244165c1-9543-4cde-ab20-6fedd20ab61a&pd_rd_wg=Mlj5i&pd_rd_i=1537713949&psc=1) - This book is alternative to Cracking The Coding Interview Book, for Python developers.
 - [The Algorithm Design Manual - Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=pd_sbs_7/146-7117112-3214425?pd_rd_w=JNweZ&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=YS938S6HF8HDZ3C3VW7T&pd_rd_r=0880b776-764d-4269-88b0-21914e3be232&pd_rd_wg=eUOYw&pd_rd_i=1849967202&psc=1) - One of the most famous algorithm books suggested by CS tutors
+- [Pro Git](https://git-scm.com/book/en/v2) - This book is a comperhensive guide on version control (and it's free!)
 
 -------------------------------
 
