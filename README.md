@@ -68,7 +68,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
-### Here are just 6 from our huge range...
+### Here are just 5 from our huge range...
 
 - [Coursera.org](https://www.coursera.org/) - Coursera is one of the good resources to do python courses from. You need to register for anything.
 complete beginners.
@@ -76,7 +76,6 @@ complete beginners.
 - [learnpython](https://www.learnpython.org/) - Website Which is generously supported by DataCamp where you can learn python.
 - [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) - Website that contain various resources for learning python.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - This is one of the websites where you can learn python.
-- [Trinket - Hour of Python](https://hourofpython.com/) - This website is for people who prefer a hands-on learning approach with quizes and challenges.
   
 ## To see it all, go here: [Learn Python](./resources/LearnPython.md)
 
@@ -136,7 +135,7 @@ complete beginners.
 
 > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
-## Here is 4 from our huge range...
+## Here is 5 from our huge range...
 
 - [Cracking the Coding Interview](https://www.google.com/url?sa=t&source=web&rct=j&url=https://cin.ufpe.br/~fbma/Crack/Cracking%2520the%2520Coding%2520Interview%2520189%2520Programming%2520Questions%2520and%2520Solutions.pdf&ved=2ahUKEwjypc602JnuAhVUuXEKHd5SCnYQFjAAegQIARAB&usg=AOvVaw3vI5dXqJ_ptFWhjqeUJeY_) - This book is about coding interviews.
 - [Data Structures and Algorithms in Python 1st ed - Goodrich](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ref=pd_sbs_9/146-7117112-3214425?pd_rd_w=u0eqq&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=GH4061FRHKTZNWK7ZJ8Y&pd_rd_r=c91ffc68-6290-4fc9-a165-950ed977867a&pd_rd_wg=hROgA&pd_rd_i=1118290275&psc=1) - This book has excellent resources on Python Data Structures.
