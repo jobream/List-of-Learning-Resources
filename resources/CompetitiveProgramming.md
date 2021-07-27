@@ -32,3 +32,5 @@
 | [Geeks for geeks](https://www.geeksforgeeks.org/)            | A computer science portal for geeks                                                       |
 | [A2 Online Judge](https://a2oj.com/)                         | A curated list of problems sequenced in ladder to practice and master competitive coding. |
 | [Project Euler](https://projecteuler.net/)                   | Solve computational and mathematical problems using your programming skills.              |
+| [AtCoder](https://atcoder.jp/)                               | Highly recommended for its Beginner Contests. Known for it's quality problems. Do give it a try if you're getting started with CP.|
+| [CSES Problem Set](https://cses.fi/problemset)               | Developed by Antti Laaksonen, it contains mostly educational problems.|
