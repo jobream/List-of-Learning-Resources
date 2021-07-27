@@ -32,3 +32,9 @@
 | [Geeks for geeks](https://www.geeksforgeeks.org/)            | A computer science portal for geeks                                                       |
 | [A2 Online Judge](https://a2oj.com/)                         | A curated list of problems sequenced in ladder to practice and master competitive coding. |
 | [Project Euler](https://projecteuler.net/)                   | Solve computational and mathematical problems using your programming skills.              |
+| [Codeforces](https://codeforces.com)                         | Highly recommended for its high quality content and also for a large variety of problems. Virtual Contests are another great way to improve your speed and accuracy. Highly active community is a plus point. |
+| [AtCoder](https://atcoder.jp/)                               | Highly recommended for its Beginner Contests. Known for it's quality problems. Do give it a try if you're getting started with CP.|
+| [Codechef](https://www.codechef.com)                         | Has been very active in improving the Indian CP culture through it's various initiatives. It's Long Challenge is recommended.|
+| [CSES Problem Set](https://cses.fi/problemset)               | Developed by Antti Laaksonen, it contains mostly educational problems.|
+| [HackerRank](https://www.hackerrank.com)                     | A good user-friendly website where you can easily learn different langauges and practice problems. It is recommended for the intial stages (for eg :- learning a language) of your CP journey.|
+| [HackerEarth](https://www.hackerearth.com)                   | A great place to learn theory and practice it. Organises three monthly contests including a long challenge.|
