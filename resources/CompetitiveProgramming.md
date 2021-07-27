@@ -34,3 +34,4 @@
 | [Project Euler](https://projecteuler.net/)                   | Solve computational and mathematical problems using your programming skills.              |
 | [AtCoder](https://atcoder.jp/)                               | Highly recommended for its Beginner Contests. Known for it's quality problems. Do give it a try if you're getting started with CP.|
 | [CSES Problem Set](https://cses.fi/problemset)               | Developed by Antti Laaksonen, it contains mostly educational problems.|
+| [URI Online Judge](https://www.urionlinejudge.com/judge/en/login) | The main goal of the project is to provide programming practice and knowledge sharing. |
