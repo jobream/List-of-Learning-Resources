@@ -26,4 +26,5 @@
 | [JavascriptInfo](https://javascript.info/)                                          | The Modern JavaScript Tutorial from the basics to advanced topics with simple, but detailed explanations.                                            |
 | [Bezkoder](https://bezkoder.com/)                                                   | Provides a series of tutorials and articles on different web technologies. 
 | [Ace Frontend](https://www.acefrontend.com/)                                            | Provides practical coding challenges to ace front end interviews.
+| [GeeksforGeeks](https://www.geeksforgeeks.org/web-development/?ref=shm) | Web development refers to the building, creating, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites. |
                                                                           
