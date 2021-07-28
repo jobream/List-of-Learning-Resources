@@ -25,7 +25,6 @@ This collection provides a list of educational resources for Software Engineers.
 - [CodeChef](https://www.codechef.com/) - Non-profit competitive programming platform.
 - [Topcoder](https://www.topcoder.com/) - Participate in code challenges and help solve real-world problems.
 - [Codeforces](https://codeforces.com/) - Russian website dedicated to competitive programming.
-- [URI Online Judge](https://www.urionlinejudge.com/judge/en/login) - The main goal of the project is to provide programming practice and knowledge sharing.
 
 ## To see it all, go here: [Competitive Programming](./resources/CompetitiveProgramming.md)
 
@@ -43,7 +42,6 @@ This collection provides a list of educational resources for Software Engineers.
 - [Thimble](https://foundation.mozilla.org/en/artifacts/thimble/) - Free online code editor, web server, web browser & developer tools.
 - [NodeSchool](https://nodeschool.io/) - Open source workshops that teach web software skills.
 - [The Odin Project](https://www.theodinproject.com/) - A full free open source coding curriculum.
-- [GeeksforGeeks](https://www.geeksforgeeks.org/web-development/?ref=shm) - Web development refers to the building, creating, and maintaining of websites.
 
 ## To see it all, go here: [Web Development](./resources/WebDevelopment.md)
 
@@ -78,7 +76,6 @@ complete beginners.
 - [learnpython](https://www.learnpython.org/) - Website Which is generously supported by DataCamp where you can learn python.
 - [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) - Website that contain various resources for learning python.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - This is one of the websites where you can learn python.
-- [W3Schools.com/Python](https://www.w3schools.com/python/default.asp) - We create simplified and interactive learning experiences.
   
 ## To see it all, go here: [Learn Python](./resources/LearnPython.md)
 
