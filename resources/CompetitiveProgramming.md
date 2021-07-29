@@ -52,5 +52,5 @@
 | [Interview Cake](https://www.interviewcake.com/) | A study tool that preps software engineering candidates for programming interviews. |
 | [CodeGym](https://codegym.cc/) | An online course for learning Java programming from scratch. |
 | [CodePen](https://codepen.io/challenges) | A platform that offers fun opportunities for leveling up your skills by building things. |
-| [HireVue]| ((https://www.hirevue.com/) | Helps global enterprises gain a competitive advantage in the modern talent marketplace with video interviewing software, conversational AI, and pre-hire assessments. |
+| [HireVue] | (https://www.hirevue.com/) | Helps global enterprises gain a competitive advantage in the modern talent marketplace with video interviewing software, conversational AI, and pre-hire assessments. |
 
