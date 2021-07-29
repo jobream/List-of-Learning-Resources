@@ -58,4 +58,4 @@
 | [Practity](https://practity.com/) |  Python Practice Problems For Beginners. |
 | [Codeabbey](https://www.codeabbey.com/) | Collection of programming problems to practice solving, learn to program and code, and win certificates. |
 | [Kattis](https://open.kattis.com/) | Here you can find hundreds of programming problems to solve. |
-| [Screeps](https://screeps.com/) | It's an open-source game for programmers, wherein the core mechanic is programming your units' AI. You control your colony by writing JavaScript.. |
+| [Screeps](https://screeps.com/) | It's an open-source game for programmers, wherein the core mechanic is programming your units' AI. You control your colony by writing JavaScript. |
