@@ -45,5 +45,12 @@
 | [Reply Challenges](https://challenges.reply.com/tamtamy/home.action) | A series of challenges created by Replyers and open to anyone who loves technology and online competitions. |
 | [Pramp](https://www.pramp.com/#/) | Practice Mock Interviews & Coding Challenges. |
 | [interviewing.io](https://interviewing.io/) | Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies. |
-| [Testdome](https://www.testdome.com/) | Programming snd Interview Online Assessment Tests. |
+| [Testdome](https://www.testdome.com/) | Programming and Interview Online Assessment Tests. |
 | [Rosalind](http://rosalind.info/problems/locations/) | A platform for learning bioinformatics and programming through problem solving. |
+| [Kaggle](https://www.kaggle.com/) | Your machine learning and data science community. |
+| [Programmr](http://www.programmr.com/) | An online interactive lab for students and enthusiasts to learn, practice and become proficient in programming. |
+| [Interview Cake](https://www.interviewcake.com/) | A study tool that preps software engineering candidates for programming interviews. |
+| [CodeGym](https://codegym.cc/) | An online course for learning Java programming from scratch. |
+| [CodePen](https://codepen.io/challenges) | A platform that offers fun opportunities for leveling up your skills by building things. |
+| [HireVue]((https://www.hirevue.com/) | Helps global enterprises gain a competitive advantage in the modern talent marketplace with video interviewing software, conversational AI, and pre-hire assessments. |
+
