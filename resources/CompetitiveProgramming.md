@@ -35,3 +35,9 @@
 | [AtCoder](https://atcoder.jp/)                               | Highly recommended for its Beginner Contests. Known for it's quality problems. Do give it a try if you're getting started with CP.|
 | [CSES Problem Set](https://cses.fi/problemset)               | Developed by Antti Laaksonen, it contains mostly educational problems.|
 | [URI Online Judge](https://www.urionlinejudge.com/judge/en/login) | The main goal of the project is to provide programming practice and knowledge sharing. |
+| [Codility](https://codility.com/programmers/) | TA platform to discover the ins and outs of coding by taking our hands-on coding lessons. |
+| [Dare2Compete](https://dare2compete.com/) | - A global platform that provides students, professionals, and educators opportunities across all domains to engage with institutes and companies by participating and competing in intellectual gamified engagements. |
+| [Codility](https://codility.com/programmers/) | A platform to discover the ins and outs of coding by taking our hands-on coding lessons. |
+| [PythonChallenge](http://www.pythonchallenge.com/) | A set of riddles that require a little bit of Python programming to be solved. |
+| [Edabit](https://edabit.com/) | A better way to learn programming, you learn to code with 10,000+ interative challenges. |
+| [Code Jam](https://codingcompetitions.withgoogle.com/codejam) | A free site of live coding problems to build coding skill in Java and Python. |
