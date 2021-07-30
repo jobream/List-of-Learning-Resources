@@ -35,3 +35,27 @@
 | [AtCoder](https://atcoder.jp/)                               | Highly recommended for its Beginner Contests. Known for it's quality problems. Do give it a try if you're getting started with CP.|
 | [CSES Problem Set](https://cses.fi/problemset)               | Developed by Antti Laaksonen, it contains mostly educational problems.|
 | [URI Online Judge](https://www.urionlinejudge.com/judge/en/login) | The main goal of the project is to provide programming practice and knowledge sharing. |
+| [Codility](https://codility.com/programmers/) | TA platform to discover the ins and outs of coding by taking our hands-on coding lessons. |
+| [Dare2Compete](https://dare2compete.com/) | A global platform that provides students, professionals, and educators opportunities across all domains to engage with institutes and companies by participating and competing in intellectual gamified engagements. |
+| [Codility](https://codility.com/programmers/) | A platform to discover the ins and outs of coding by taking our hands-on coding lessons. |
+| [PythonChallenge](http://www.pythonchallenge.com/) | A set of riddles that require a little bit of Python programming to be solved. |
+| [Edabit](https://edabit.com/) | A better way to learn programming, you learn to code with 10,000+ interative challenges. |
+| [Code Jam](https://codingcompetitions.withgoogle.com/codejam) | Google’s longest running global coding competition. Code Jam, calls on programmers around the world to solve challenging, algorithmic puzzles against the clock. . |
+| [Kick Start](https://codingcompetitions.withgoogle.com/kickstart) | Kick Start offers coders around the world the chance to develop and hone their programming skills through online-hosted competition rounds. |
+| [Reply Challenges](https://challenges.reply.com/tamtamy/home.action) | A series of challenges created by Replyers and open to anyone who loves technology and online competitions. |
+| [Pramp](https://www.pramp.com/#/) | Practice Mock Interviews & Coding Challenges. |
+| [interviewing.io](https://interviewing.io/) | Anonymous technical mock interviews with engineers from Google, Facebook, and other top companies. |
+| [Testdome](https://www.testdome.com/) | Programming and Interview Online Assessment Tests. |
+| [Rosalind](http://rosalind.info/problems/locations/) | A platform for learning bioinformatics and programming through problem solving. |
+| [Kaggle](https://www.kaggle.com/) | Your machine learning and data science community. |
+| [Programmr](http://www.programmr.com/) | An online interactive lab for students and enthusiasts to learn, practice and become proficient in programming. |
+| [Interview Cake](https://www.interviewcake.com/) | A study tool that preps software engineering candidates for programming interviews. |
+| [CodeGym](https://codegym.cc/) | An online course for learning Java programming from scratch. |
+| [CodePen](https://codepen.io/challenges) | A platform that offers fun opportunities for leveling up your skills by building things. |
+| [HireVue](https://www.hirevue.com/) | Helps global enterprises gain a competitive advantage in the modern talent marketplace with video interviewing software, conversational AI, and pre-hire assessments. |
+| [Geektastic](https://geektastic.com/) | Technical Assesment & Code Challenge Platform. |
+| [Halite](https://www.halite.io/) | An artificial intelligence programming challenge created by Two Sigma, in which players build bots using the coding language of their choice to compete in an original online multiplayer game. |
+| [Practity](https://practity.com/) |  Python Practice Problems For Beginners. |
+| [Codeabbey](https://www.codeabbey.com/) | Collection of programming problems to practice solving, learn to program and code, and win certificates. |
+| [Kattis](https://open.kattis.com/) | Here you can find hundreds of programming problems to solve. |
+| [Screeps](https://screeps.com/) | It's an open-source game for programmers, wherein the core mechanic is programming your units' AI. You control your colony by writing JavaScript. |
