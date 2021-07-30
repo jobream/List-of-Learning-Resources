@@ -89,7 +89,25 @@ complete beginners.
 - [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
 
--------------------------------
+
+## Communities
+
+<img src="https://t4.ftcdn.net/jpg/02/41/60/35/240_F_241603570_MR6B6tQjTuREQC0EIgc7l2KvVNJzsSp5.jpg" height="60px">
+
+> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+
+## Here is 5 from our huge range...
+
+- [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi) - This is community of freecodecamp from Karachi, Pakistan.
+- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597) - This is community of Golang from Pakistan.                         
+- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity) - This is community of Hyderabad, Pakistan for developers.           
+- [Code With Concepts](https://www.facebook.com/groups/codewithconcepts) - This is community of teaching programming to newbie.
+- [Mentors Without Borders](https://www.facebook.com/MentorsWB) - This is community of giving mentorship for free to students.
+
+## To see it all, go here: [Communities](./resources/Communities.md)
+
+----------------------------------------
+
 
 ## Extras : Books and Video Courses! :
 
@@ -111,23 +129,6 @@ complete beginners.
 
 -------------------------------
 
-## Communities
-
-<img src="https://t4.ftcdn.net/jpg/02/41/60/35/240_F_241603570_MR6B6tQjTuREQC0EIgc7l2KvVNJzsSp5.jpg" height="60px">
-
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
-
-## Here is 5 from our huge range...
-
-- [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi) - This is community of freecodecamp from Karachi, Pakistan.
-- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597) - This is community of Golang from Pakistan.                         
-- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity) - This is community of Hyderabad, Pakistan for developers.           
-- [Code With Concepts](https://www.facebook.com/groups/codewithconcepts) - This is community of teaching programming to newbie.
-- [Mentors Without Borders](https://www.facebook.com/MentorsWB) - This is community of giving mentorship for free to students.
-
-## To see it all, go here: [Communities](./resources/Communities.md)
-
-----------------------------------------
 
 ## More Resources Are Coming Soon!!! 🚀🚀🚀
 
