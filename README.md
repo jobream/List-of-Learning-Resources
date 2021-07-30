@@ -12,7 +12,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 ----------------------------------------
 
-## Competitive Programming 
+# Competitive Programming 
 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621230.png" height="60px">
 
@@ -30,46 +30,43 @@ This collection provides a list of educational resources for Software Engineers.
 
 -------------------------------------------------------------
 
-## Web Development 
+# Software Development
+
 <img src="https://image.flaticon.com/icons/png/128/234/234073.png" height="40px"/>
 
 > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
-### Here are just 5 from our huge range...
+## The Software Development section consists of :
 
+### 1. Web Development - Here are just 5 from our huge range :
 - [Learn Enough to Be Dangerous](https://www.learnenough.com/) - Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Coding tutorials and challenges.
 - [Thimble](https://foundation.mozilla.org/en/artifacts/thimble/) - Free online code editor, web server, web browser & developer tools.
 - [NodeSchool](https://nodeschool.io/) - Open source workshops that teach web software skills.
 - [The Odin Project](https://www.theodinproject.com/) - A full free open source coding curriculum.
 
-## To see it all, go here: [Web Development](./resources/WebDevelopment.md)
+#### To see all of the Web Development resources, go here: [Web Development](./resources/WebDevelopment.md)
 
-
-------------------------------------------------------------------------------------
-
-## Mobile Development 
-<img src="https://image.flaticon.com/icons/png/128/2037/2037075.png" height="60px"/>
-
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
-
-## Here is 5 from our huge range...
-
+### 2. Mobile Development - Here are just 5 from our huge range : 
 - [Udacity Android Nanodegree ](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) -  Students can also apply for scholarship given by Google.
 - [Android Developer Training](https://developer.android.com/courses) - Range of courses to help you build Android apps.
 - [Vogella](https://www.vogella.com/tutorials/android.html) - Tutorials about Android development.
 - [Android Hive](https://nodeschool.io/) - Android tutorials blog.
 - [iOS development ](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) - Build your first iOS app with an Udacity course.
 
----------------------------------
 
-## Learn Python 
-<img src="https://image.flaticon.com/icons/png/128/2621/2621303.png" height="60px"/>
+
+------------------------------------------------------------------------------------
+
+
+# Computer Programming
+<img src="https://image.flaticon.com/icons/png/128/2620/2620900.png" height="60px"/>
 
 > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
-### Here are just 5 from our huge range...
+## The Computer Programming section consists of :
 
+### 1. Learn Python - Here are just 5 from our huge range :
 - [Coursera.org](https://www.coursera.org/) - Coursera is one of the good resources to do python courses from. You need to register for anything.
 complete beginners.
 - [RealPython](https://realpython.com/start-here/) - Website where you can learn python that for beginners.
@@ -77,17 +74,9 @@ complete beginners.
 - [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) - Website that contain various resources for learning python.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - This is one of the websites where you can learn python.
   
-## To see it all, go here: [Learn Python](./resources/LearnPython.md)
+#### To see it all the Python resources, go here: [Learn Python](./resources/LearnPython.md)
 
-------------------------------
-
-## Learn Git 
-<img src="https://image.flaticon.com/icons/png/128/2111/2111288.png" height="50px"/>
-
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
-
-## Here is 5 from our huge range...
-
+### 2. Learn Git - Here are just a few from our huge range : 
 - [pcottle-repository](https://github.com/pcottle/learnGitBranching) - This is a git repository visualizer, sandbox, and a series of educational tutorials and challenges.
 - [Course](https://lnkd.in/gfEaa2b) - Version Control Git course on Coursera offered.
 - [GitHub](https://lab.github.com/) - GitHub labs
@@ -95,18 +84,30 @@ complete beginners.
 - [APIS and documentation](https://lnkd.in/gWjAsSp) - For Github REST APIs, the best resource is the documentation 
 - [Github tutorial](https://youtu.be/BCQHnlnPusY) - Videos to Learn Github, step by step.
 
--------------------------------------------------
-
-## Learn regular expressions
-
-<img src="https://img.icons8.com/officexs/16/000000/regex.png" height="40px"/>
-
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
-
-## Here is 2 from our huge range...
+### 3. Learn regular expressions - Here are 2 from our range : 
 
 - [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
+
+-------------------------------
+
+## Extras : Books and Video Courses! :
+
+<img src="https://image.flaticon.com/icons/png/128/3730/3730087.png" height="60px"> <img src="https://image.flaticon.com/icons/png/128/2096/2096018.png" height="60px">
+
+> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+
+### 1. Books - Here is 5 from our huge range :
+
+- [Cracking the Coding Interview](https://www.google.com/url?sa=t&source=web&rct=j&url=https://cin.ufpe.br/~fbma/Crack/Cracking%2520the%2520Coding%2520Interview%2520189%2520Programming%2520Questions%2520and%2520Solutions.pdf&ved=2ahUKEwjypc602JnuAhVUuXEKHd5SCnYQFjAAegQIARAB&usg=AOvVaw3vI5dXqJ_ptFWhjqeUJeY_) - This book is about coding interviews.
+- [Data Structures and Algorithms in Python 1st ed - Goodrich](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ref=pd_sbs_9/146-7117112-3214425?pd_rd_w=u0eqq&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=GH4061FRHKTZNWK7ZJ8Y&pd_rd_r=c91ffc68-6290-4fc9-a165-950ed977867a&pd_rd_wg=hROgA&pd_rd_i=1118290275&psc=1) - This book has excellent resources on Python Data Structures.
+- [Elements of the Programming Interview in Python - Aziz](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_sbs_3/146-7117112-3214425?pd_rd_w=h1Gnk&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=3W8ND85QTCQKRJFW53AW&pd_rd_r=244165c1-9543-4cde-ab20-6fedd20ab61a&pd_rd_wg=Mlj5i&pd_rd_i=1537713949&psc=1) - This book is alternative to Cracking The Coding Interview Book, for Python developers.
+- [The Algorithm Design Manual - Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=pd_sbs_7/146-7117112-3214425?pd_rd_w=JNweZ&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=YS938S6HF8HDZ3C3VW7T&pd_rd_r=0880b776-764d-4269-88b0-21914e3be232&pd_rd_wg=eUOYw&pd_rd_i=1849967202&psc=1) - One of the most famous algorithm books suggested by CS tutors
+- [Pro Git](https://git-scm.com/book/en/v2) - This book is a comperhensive guide on version control (and it's free!)
+
+### 2. Video Courses - Here are 2 from our range :
+- [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
+- [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
 
 -------------------------------
 
@@ -127,36 +128,6 @@ complete beginners.
 ## To see it all, go here: [Communities](./resources/Communities.md)
 
 ----------------------------------------
-
-## Books 
-
-<img src="https://image.flaticon.com/icons/png/128/3730/3730087.png" height="60px">
-
-
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
-
-## Here is 5 from our huge range...
-
-- [Cracking the Coding Interview](https://www.google.com/url?sa=t&source=web&rct=j&url=https://cin.ufpe.br/~fbma/Crack/Cracking%2520the%2520Coding%2520Interview%2520189%2520Programming%2520Questions%2520and%2520Solutions.pdf&ved=2ahUKEwjypc602JnuAhVUuXEKHd5SCnYQFjAAegQIARAB&usg=AOvVaw3vI5dXqJ_ptFWhjqeUJeY_) - This book is about coding interviews.
-- [Data Structures and Algorithms in Python 1st ed - Goodrich](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ref=pd_sbs_9/146-7117112-3214425?pd_rd_w=u0eqq&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=GH4061FRHKTZNWK7ZJ8Y&pd_rd_r=c91ffc68-6290-4fc9-a165-950ed977867a&pd_rd_wg=hROgA&pd_rd_i=1118290275&psc=1) - This book has excellent resources on Python Data Structures.
-- [Elements of the Programming Interview in Python - Aziz](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/ref=pd_sbs_3/146-7117112-3214425?pd_rd_w=h1Gnk&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=3W8ND85QTCQKRJFW53AW&pd_rd_r=244165c1-9543-4cde-ab20-6fedd20ab61a&pd_rd_wg=Mlj5i&pd_rd_i=1537713949&psc=1) - This book is alternative to Cracking The Coding Interview Book, for Python developers.
-- [The Algorithm Design Manual - Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=pd_sbs_7/146-7117112-3214425?pd_rd_w=JNweZ&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=YS938S6HF8HDZ3C3VW7T&pd_rd_r=0880b776-764d-4269-88b0-21914e3be232&pd_rd_wg=eUOYw&pd_rd_i=1849967202&psc=1) - One of the most famous algorithm books suggested by CS tutors
-- [Pro Git](https://git-scm.com/book/en/v2) - This book is a comperhensive guide on version control (and it's free!)
-
--------------------------------
-
-## Video Courses 
-
-<img src="https://image.flaticon.com/icons/png/128/2096/2096018.png" height="60px">
-
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
-
-## Here is 2 from our huge range...
-
-- [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
-- [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
-
-------------------------------------
 
 ## More Resources Are Coming Soon!!! 🚀🚀🚀
 
