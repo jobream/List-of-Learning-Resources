@@ -126,6 +126,7 @@ complete beginners.
 ### 2. Video Courses - Here are 2 from our range :
 - [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
 - [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
+- [All tech Courses For free](https://www.learnvern.com/auth/register) - Learn Anything for free
 
 -------------------------------
 
@@ -171,6 +172,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://carlosvinimsouza.github.io/"><img src="https://avatars.githubusercontent.com/u/60679101?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CarlosViniMSouza</b></sub></a><br /><a href="#content-CarlosViniMSouza" title="Content">🖋</a></td>
   </tr>
+  
 </table>
 
 <!-- markdownlint-restore -->
