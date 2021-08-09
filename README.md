@@ -10,6 +10,8 @@ This collection provides a list of educational resources for Software Engineers.
 
 **Feel free to add your favorite resources as well and help others in their journey of learning.**
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+
 ----------------------------------------
 
 # Competitive Programming 
