@@ -24,4 +24,7 @@
 | [Design-Resources](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design resources from stock photos, Web templates, CSS frameworks, UI libraries, tools and much more.                                |
 | [FrontendMentor](https://www.frontendmentor.io)                                     | Improve your front-end skills by building real projects.Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. |
 | [JavascriptInfo](https://javascript.info/)                                          | The Modern JavaScript Tutorial from the basics to advanced topics with simple, but detailed explanations.                                            |
-| [Bezkoder](https://bezkoder.com/)                                                   | Provides a series of tutorials and articles on different web technologies.                                                                           |
+| [Bezkoder](https://bezkoder.com/)                                                   | Provides a series of tutorials and articles on different web technologies. 
+| [Ace Frontend](https://www.acefrontend.com/)                                            | Provides practical coding challenges to ace front end interviews.
+| [GeeksforGeeks](https://www.geeksforgeeks.org/web-development/?ref=shm) | Web development refers to the building, creating, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites. |
+                                                                          

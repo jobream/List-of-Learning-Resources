@@ -111,6 +111,42 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Alwaz",
+      "name": "Alwaz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49204941?v=4",
+      "profile": "https://github.com/Alwaz",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "prottayislive",
+      "name": "Prottay Karim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70666023?v=4",
+      "profile": "https://github.com/prottayislive",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "JayantGoel001",
+      "name": "Jayant Goel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54479676?v=4",
+      "profile": "http://JayantGoel001.github.io",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "CarlosViniMSouza",
+      "name": "CarlosViniMSouza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60679101?v=4",
+      "profile": "http://carlosvinimsouza.github.io/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
