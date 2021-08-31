@@ -4,13 +4,19 @@
 
 <div align="center"> <img src="./assets/JobreamIcon.png"/> </div>
 
-<h1 style="text-align: center">LIST OF AWESOME LEARNING RESOURCES 🚀 </h1>
+<h1 align="center"> List of 🌟 AWESOME 🌟 Learning Resources 🚀 </h1>
 
+<div align="center">
+
+<img src="https://forthebadge.com/images/badges/made-with-markdown.svg" />
+<img src="https://forthebadge.com/images/badges/open-source.svg" />
+<img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+  
 This collection provides a list of educational resources for Software Engineers. 
 
 **Feel free to add your favorite resources as well and help others in their journey of learning.**
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+  
+</div>
 
 ----------------------------------------
 
