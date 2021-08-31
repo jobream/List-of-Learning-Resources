@@ -18,7 +18,7 @@ This collection provides a list of educational resources for Software Engineers.
   
 </div>
 
-----------------------------------------
+-----------------------------------------
 
 # Competitive Programming 
 
