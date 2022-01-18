@@ -156,7 +156,17 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Ilsa-Naeem",
+      "name": "Ilsa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83057022?v=4",
+      "profile": "https://github.com/Ilsa-Naeem",
+      "contributions": [
+        "content"
+      ]
     }
+
   ],
   "contributorsPerLine": 7,
   "projectName": "List-of-Learning-Resources",
