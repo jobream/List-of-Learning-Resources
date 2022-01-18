@@ -20,7 +20,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
 
-### Here are just 5 from our huge range...
+### Here are just a few from our huge range...
 
 - [HackerRank](https://www.hackerrank.com/) - Solve code challenges to prepare for programming interviews.
 - [HackerEarth](https://www.hackerearth.com/) - Solve code challenges to help companies find innovative solutions for their businesses.
@@ -40,7 +40,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 ## The Software Development section consists of :
 
-### 1. Web Development - Here are just 5 from our huge range :
+### 1. Web Development - Here are just a few from our huge range :
 - [Learn Enough to Be Dangerous](https://www.learnenough.com/) - Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Coding tutorials and challenges.
 - [Thimble](https://foundation.mozilla.org/en/artifacts/thimble/) - Free online code editor, web server, web browser & developer tools.
