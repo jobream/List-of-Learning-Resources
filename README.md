@@ -92,6 +92,22 @@ complete beginners.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
 
 
+# Web Development Road Map 2022
+<img src="https://coder-coder.com/wp-content/uploads/2019/08/roadmap-development-infographic.jpg" height="60px">
+
+## Basic Tools You Will Need
+### Visual Studio Code (Or Any Other Code Editor).
+### The Command-Line.
+### Git And GitHub.
+### Design Tools (I.e., Figma).
+
+#### To see it all, go here: [Complete Roadmap](./resources/WebDevRoadmap2022.md)
+
+
+
+
+
+
 ## Communities
 
 <img src="https://t4.ftcdn.net/jpg/02/41/60/35/240_F_241603570_MR6B6tQjTuREQC0EIgc7l2KvVNJzsSp5.jpg" height="60px">
