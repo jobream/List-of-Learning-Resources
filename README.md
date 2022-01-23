@@ -189,6 +189,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/lorezi"><img src="https://avatars.githubusercontent.com/u/20595856?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lawrence Onaulogho</b></sub></a><br /><a href="#content-lorezi" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/labheshwar"><img src="https://avatars.githubusercontent.com/u/66070272?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Labheshwar Sharma</b></sub></a><br /><a href="#content-labheshwar" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Ilsa-Naeem"><img src="https://avatars.githubusercontent.com/u/83057022?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ilsa</b></sub></a><br /><a href="#content-Ilsa-Naeem" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ayesha-baloch-53892120a/"><img src="https://avatars.githubusercontent.com/u/90467681?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ayesha Baloch</b></sub></a><br /><a href="#content-ayeshabaloch123" title="Content">🖋</a></td>
   </tr>
 </table>
 
