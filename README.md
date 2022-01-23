@@ -131,6 +131,20 @@ complete beginners.
 
 -------------------------------
 
+## Some Essential Tools for Frontend Web Development
+
+
+> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+
+
+- [Chrome Developer Tools](https://developer.chrome.com/devtools) - allow developers access into the internals of their web application, you can edit your HTML and CSS in real-time, or debug your JavaScript, all while viewing a through performance analysis of your website.  
+- [jQuery](https://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation
+
+
+## To see it all, go here: [WebTools](./resources/WebTools.md)
+
+----------------------------------------
+
 
 ## More Resources Are Coming Soon!!! 🚀🚀🚀
 
@@ -173,6 +187,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://carlosvinimsouza.github.io/"><img src="https://avatars.githubusercontent.com/u/60679101?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CarlosViniMSouza</b></sub></a><br /><a href="#content-CarlosViniMSouza" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/lorezi"><img src="https://avatars.githubusercontent.com/u/20595856?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lawrence Onaulogho</b></sub></a><br /><a href="#content-lorezi" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/labheshwar"><img src="https://avatars.githubusercontent.com/u/66070272?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Labheshwar Sharma</b></sub></a><br /><a href="#content-labheshwar" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Ilsa-Naeem"><img src="https://avatars.githubusercontent.com/u/83057022?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ilsa</b></sub></a><br /><a href="#content-Ilsa-Naeem" title="Content">🖋</a></td>
   </tr>
 </table>
 
