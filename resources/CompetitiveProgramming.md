@@ -59,3 +59,5 @@
 | [Codeabbey](https://www.codeabbey.com/) | Collection of programming problems to practice solving, learn to program and code, and win certificates. |
 | [Kattis](https://open.kattis.com/) | Here you can find hundreds of programming problems to solve. |
 | [Screeps](https://screeps.com/) | It's an open-source game for programmers, wherein the core mechanic is programming your units' AI. You control your colony by writing JavaScript. |
+| [Exercism](https://exercism.org/) | Exercism is a coding challenge website that offers 3100+ challenges spanning 52 different programming languages. |
+| [ProjectEuler](https://projecteuler.net/) | Project Euler provides a large collection of challenges in the domain of computer science and mathematics. |
