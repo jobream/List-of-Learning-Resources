@@ -131,6 +131,20 @@ complete beginners.
 
 -------------------------------
 
+## Some Essential Tools for Frontend Web Development
+
+
+> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+
+
+- [Chrome Developer Tools](https://developer.chrome.com/devtools) - allow developers access into the internals of their web application, you can edit your HTML and CSS in real-time, or debug your JavaScript, all while viewing a through performance analysis of your website.  
+- [jQuery](https://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation
+
+
+## To see it all, go here: [WebTools](./resources/WebTools.md)
+
+----------------------------------------
+
 
 ## More Resources Are Coming Soon!!! 🚀🚀🚀
 
