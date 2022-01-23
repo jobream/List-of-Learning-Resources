@@ -173,6 +173,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://carlosvinimsouza.github.io/"><img src="https://avatars.githubusercontent.com/u/60679101?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CarlosViniMSouza</b></sub></a><br /><a href="#content-CarlosViniMSouza" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/lorezi"><img src="https://avatars.githubusercontent.com/u/20595856?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lawrence Onaulogho</b></sub></a><br /><a href="#content-lorezi" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/labheshwar"><img src="https://avatars.githubusercontent.com/u/66070272?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Labheshwar Sharma</b></sub></a><br /><a href="#content-labheshwar" title="Content">🖋</a></td>
   </tr>
 </table>
 
