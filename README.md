@@ -64,8 +64,6 @@ This collection provides a list of educational resources for Software Engineers.
 # Computer Programming
 <img src="https://image.flaticon.com/icons/png/128/2620/2620900.png" height="60px"/>
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
-
 ## The Computer Programming section consists of :
 
 ### 1. Learn Python - Here are just 5 from our huge range :
@@ -85,6 +83,7 @@ complete beginners.
 - [GraphQLExplorer](https://lnkd.in/g9vh2bn) - Github GraphQL Explorer 
 - [APIS and documentation](https://lnkd.in/gWjAsSp) - For Github REST APIs, the best resource is the documentation 
 - [Github tutorial](https://youtu.be/BCQHnlnPusY) - Videos to Learn Github, step by step.
+- [KunalKushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics&t=3865s) - Complete Git & Github Course.(0-100) 
 
 ### 3. Learn regular expressions - Here are 2 from our range : 
 
@@ -128,6 +127,7 @@ complete beginners.
 ### 2. Video Courses - Here are 2 from our range :
 - [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
 - [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
+- [KunalKushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8&t=3181s) - This the best video i have come across for Computer Networking.(0 -100).
 
 -------------------------------
 
