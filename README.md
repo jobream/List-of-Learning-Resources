@@ -64,6 +64,8 @@ This collection provides a list of educational resources for Software Engineers.
 # Computer Programming
 <img src="https://image.flaticon.com/icons/png/128/2620/2620900.png" height="60px"/>
 
+- > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+-
 ## The Computer Programming section consists of :
 
 ### 1. Learn Python - Here are just 5 from our huge range :
@@ -124,7 +126,7 @@ complete beginners.
 - [The Algorithm Design Manual - Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=pd_sbs_7/146-7117112-3214425?pd_rd_w=JNweZ&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=YS938S6HF8HDZ3C3VW7T&pd_rd_r=0880b776-764d-4269-88b0-21914e3be232&pd_rd_wg=eUOYw&pd_rd_i=1849967202&psc=1) - One of the most famous algorithm books suggested by CS tutors
 - [Pro Git](https://git-scm.com/book/en/v2) - This book is a comperhensive guide on version control (and it's free!)
 
-### 2. Video Courses - Here are 2 from our range :
+### 2. Video Courses - Here are 3 from our range :
 - [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
 - [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
 - [KunalKushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8&t=3181s) - This the best video i have come across for Computer Networking.(0 -100).
