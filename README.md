@@ -18,7 +18,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621230.png" height="60px">
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 ### Here are just 5 from our huge range...
 
@@ -36,7 +36,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 <img src="https://image.flaticon.com/icons/png/128/234/234073.png" height="40px"/>
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 ## The Software Development section consists of :
 
@@ -64,7 +64,7 @@ This collection provides a list of educational resources for Software Engineers.
 # Computer Programming
 <img src="https://image.flaticon.com/icons/png/128/2620/2620900.png" height="60px"/>
 
-- > If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+- > If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 -
 ## The Computer Programming section consists of :
 
@@ -97,7 +97,7 @@ complete beginners.
 
 <img src="https://t4.ftcdn.net/jpg/02/41/60/35/240_F_241603570_MR6B6tQjTuREQC0EIgc7l2KvVNJzsSp5.jpg" height="60px">
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 ## Here is 5 from our huge range...
 
@@ -116,7 +116,7 @@ complete beginners.
 
 <img src="https://image.flaticon.com/icons/png/128/3730/3730087.png" height="60px"> <img src="https://image.flaticon.com/icons/png/128/2096/2096018.png" height="60px">
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 ### 1. Books - Here is 5 from our huge range :
 
@@ -136,7 +136,7 @@ complete beginners.
 ## Some Essential Tools for Frontend Web Development
 
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 
 - [Chrome Developer Tools](https://developer.chrome.com/devtools) - allow developers access into the internals of their web application, you can edit your HTML and CSS in real-time, or debug your JavaScript, all while viewing a through performance analysis of your website.  

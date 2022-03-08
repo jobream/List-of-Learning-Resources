@@ -1,7 +1,7 @@
 ## WEB DEVELOPMENT TOOLS.
 
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 | Resource                                                                                                                                                     | Description                                                                                                                                                                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
