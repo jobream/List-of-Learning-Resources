@@ -3,7 +3,7 @@
 
 ### Practice your skills, play games, and prepare for interviews!
 
-> If you think there is a resource which you think others would benefit on, fork, andd your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 <br>
 
 | Resource Name                                                | Description                                                                               |
@@ -13,7 +13,7 @@
 | [VisuAlgo](https://visualgo.net/en)                          | Visualizing data structures and algorithms through animation.                             |
 | [Leetcode](https://leetcode.com/)                            | Develop programming skills for your next interview.                                       |
 | [FireCode](https://www.firecode.io/)                         | An online coding interview preparation.                                                   |
-| [CodeinGame](https://www.codingame.com/start)                | Learn to code by playing games.                                                           |
+| [CodinGame](https://www.codingame.com/start)                 | Learn to code by playing games.                                                           |
 | [DailyProgrammer](https://www.hackerrank.com/)               | Solutions to programming challenges, peer-reviewed with community feedback.               |
 | [CodeSignal](https://codesignal.com/)                        | Practice programming and land a job                                                       |
 | [Uva](https://onlinejudge.org/)                              | Programming contests with online judging system.                                          |
