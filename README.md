@@ -18,7 +18,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621230.png" height="60px">
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 ### Here are just 5 from our huge range...
 
@@ -36,7 +36,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 <img src="https://image.flaticon.com/icons/png/128/234/234073.png" height="40px"/>
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 ## The Software Development section consists of :
 
@@ -65,8 +65,8 @@ This collection provides a list of educational resources for Software Engineers.
 
 <img src="https://image.flaticon.com/icons/png/128/2620/2620900.png" height="60px"/>
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
-
+- > If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
+-
 ## The Computer Programming section consists of :
 
 ### 1. Learn Python - Here are just 5 from our huge range :
@@ -88,6 +88,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [GraphQLExplorer](https://lnkd.in/g9vh2bn) - Github GraphQL Explorer
 - [APIS and documentation](https://lnkd.in/gWjAsSp) - For Github REST APIs, the best resource is the documentation
 - [Github tutorial](https://youtu.be/BCQHnlnPusY) - Videos to Learn Github, step by step.
+- [KunalKushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics&t=3865s) - Complete Git & Github Course.(0-100) 
 
 ### 3. Learn regular expressions - Here are 2 from our range :
 
@@ -98,7 +99,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 <img src="https://t4.ftcdn.net/jpg/02/41/60/35/240_F_241603570_MR6B6tQjTuREQC0EIgc7l2KvVNJzsSp5.jpg" height="60px">
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 ## Here is 5 from our huge range...
 
@@ -116,7 +117,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 <img src="https://image.flaticon.com/icons/png/128/3730/3730087.png" height="60px"> <img src="https://image.flaticon.com/icons/png/128/2096/2096018.png" height="60px">
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 ### 1. Books - Here is 5 from our huge range :
 
@@ -126,10 +127,10 @@ This collection provides a list of educational resources for Software Engineers.
 - [The Algorithm Design Manual - Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=pd_sbs_7/146-7117112-3214425?pd_rd_w=JNweZ&pf_rd_p=43345e03-9e2a-47c0-9b70-a50aa5ecbd5c&pf_rd_r=YS938S6HF8HDZ3C3VW7T&pd_rd_r=0880b776-764d-4269-88b0-21914e3be232&pd_rd_wg=eUOYw&pd_rd_i=1849967202&psc=1) - One of the most famous algorithm books suggested by CS tutors
 - [Pro Git](https://git-scm.com/book/en/v2) - This book is a comperhensive guide on version control (and it's free!)
 
-### 2. Video Courses - Here are 5 from our range :
-
+### 2. Video Courses - Here are 3 from our range :
 - [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
 - [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
+- [KunalKushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8&t=3181s) - This the best video i have come across for Computer Networking.(0 -100).
 - [Typescript Crash Course](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI) - Learn Typescript from scratch.
 - [HTML & CSS Crash Course](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) - Learn HTML5 and CSS3 from scratch.
 - [SCSS Crash Course](https://www.youtube.com/watch?v=_kqN4hl9bGc&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb) - Learn SCSS from scratch.
@@ -138,7 +139,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 ## Some Essential Tools for Frontend Web Development
 
-> If you think there is a resource which you think others would benefit on, fork, and your changes, and make a pull request!
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 - [Chrome Developer Tools](https://developer.chrome.com/devtools) - allow developers access into the internals of their web application, you can edit your HTML and CSS in real-time, or debug your JavaScript, all while viewing a through performance analysis of your website.
 - [jQuery](https://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation
@@ -196,6 +197,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/labheshwar"><img src="https://avatars.githubusercontent.com/u/66070272?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Labheshwar Sharma</b></sub></a><br /><a href="#content-labheshwar" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Ilsa-Naeem"><img src="https://avatars.githubusercontent.com/u/83057022?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ilsa</b></sub></a><br /><a href="#content-Ilsa-Naeem" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/ayesha-baloch-53892120a/"><img src="https://avatars.githubusercontent.com/u/90467681?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ayesha Baloch</b></sub></a><br /><a href="#content-ayeshabaloch123" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/shaggyyy2002"><img src="https://avatars.githubusercontent.com/u/90847875?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nitin Gouda</b></sub></a><br /><a href="#content-shaggyyy2002" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/root-mrrobot"><img src="https://avatars.githubusercontent.com/u/79943494?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aaqib J. Khan</b></sub></a><br /><a href="#content-root-mrrobot" title="Content">🖋</a></td>
   </tr>
 </table>
 
