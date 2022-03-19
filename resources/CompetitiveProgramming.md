@@ -41,6 +41,7 @@
 | [PythonChallenge](http://www.pythonchallenge.com/) | A set of riddles that require a little bit of Python programming to be solved. |
 | [Edabit](https://edabit.com/) | A better way to learn programming, you learn to code with 10,000+ interative challenges. |
 | [Code Jam](https://codingcompetitions.withgoogle.com/codejam) | Google’s longest running global coding competition. Code Jam, calls on programmers around the world to solve challenging, algorithmic puzzles against the clock. . |
+| [Hash Code](https://codingcompetitions.withgoogle.com/hashcode) | Google’s team-based programming competition, Hash Code, allows you to share your skills and connect with other coders as you work together to solve a problem modeled off a real Google engineering challenge! |
 | [Kick Start](https://codingcompetitions.withgoogle.com/kickstart) | Kick Start offers coders around the world the chance to develop and hone their programming skills through online-hosted competition rounds. |
 | [Reply Challenges](https://challenges.reply.com/tamtamy/home.action) | A series of challenges created by Replyers and open to anyone who loves technology and online competitions. |
 | [Pramp](https://www.pramp.com/#/) | Practice Mock Interviews & Coding Challenges. |
