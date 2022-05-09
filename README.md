@@ -195,6 +195,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/shaggyyy2002"><img src="https://avatars.githubusercontent.com/u/90847875?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nitin Gouda</b></sub></a><br /><a href="#content-shaggyyy2002" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/root-mrrobot"><img src="https://avatars.githubusercontent.com/u/79943494?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aaqib J. Khan</b></sub></a><br /><a href="#content-root-mrrobot" title="Content">🖋</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/MaryaBaloch20"><img src="https://avatars.githubusercontent.com/u/64646421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marya Baloch</b></sub></a><br /><a href="#content-MaryaBaloch20" title="Content">🖋</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-restore -->
