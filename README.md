@@ -197,6 +197,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/MaryaBaloch20"><img src="https://avatars.githubusercontent.com/u/64646421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Marya Baloch</b></sub></a><br /><a href="#content-MaryaBaloch20" title="Content">🖋</a></td>
+    <td align="center"><a href="https://myself-as-programmer.web.app/"><img src="https://avatars.githubusercontent.com/u/49161541?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mubashir Ibrahim</b></sub></a><br /><a href="#content-Mubashirsw27" title="Content">🖋</a></td>
   </tr>
 </table>
 
