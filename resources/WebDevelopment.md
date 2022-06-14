@@ -6,6 +6,7 @@
 
 > If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 > <br>
+> 
 | Resource                                                                            | Description                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Egghead](https://egghead.io/)                                                      | Video tutorials on popular JavaScript frameworks.                                                                                                                                                                                                                                         |
