@@ -36,15 +36,3 @@
 | [PHP The right way](https://phptherightway.com//)                                 | PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.                                                                                                                                                                                                                 |
 | [Tutorials Point](https://www.tutorialspoint.com/)                                 | The Tutorials Point offers tutorials and courses on differenct programming languages, frameworks and tools. It is one of the best educational website for beginers.               
 |
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
