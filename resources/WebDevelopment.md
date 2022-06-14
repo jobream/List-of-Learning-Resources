@@ -1,36 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Mubashirsw27 
-jobream
-/
-List-of-Learning-Resources
-Public
-Code
-Issues
-5
-Pull requests
-6
-Discussions
-Actions
-Projects
-Wiki
-Security
-Insights
-List-of-Learning-Resources/resources/WebDevelopment.md
-@iqbalmalik89
-iqbalmalik89 contributing in web dev resources
-Latest commit c48288d 3 days ago
- History
- 8 contributors
-@root-mrrobot@labheshwar@Alwaz@TheSlimCoder@CarlosViniMSouza@lorezi@iqbalmalik89@ayeshabaloch123
-37 lines (33 sloc)  10.3 KB
-
-
 # Web Development.
 
 <img src="https://image.flaticon.com/icons/png/128/234/234073.png" height="40px"/>
