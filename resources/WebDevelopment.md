@@ -1,3 +1,36 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Mubashirsw27 
+jobream
+/
+List-of-Learning-Resources
+Public
+Code
+Issues
+5
+Pull requests
+6
+Discussions
+Actions
+Projects
+Wiki
+Security
+Insights
+List-of-Learning-Resources/resources/WebDevelopment.md
+@iqbalmalik89
+iqbalmalik89 contributing in web dev resources
+Latest commit c48288d 3 days ago
+ History
+ 8 contributors
+@root-mrrobot@labheshwar@Alwaz@TheSlimCoder@CarlosViniMSouza@lorezi@iqbalmalik89@ayeshabaloch123
+37 lines (33 sloc)  10.3 KB
+
+
 # Web Development.
 
 <img src="https://image.flaticon.com/icons/png/128/234/234073.png" height="40px"/>
@@ -6,9 +39,8 @@
 
 > If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 > <br>
-
 | Resource                                                                            | Description                                                                                                                                                                                                                                                                               |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Egghead](https://egghead.io/)                                                      | Video tutorials on popular JavaScript frameworks.                                                                                                                                                                                                                                         |
 | [Codeacademy](https://www.codecademy.com/)                                          | Free and premium interactive tutorials for various languages.                                                                                                                                                                                                                             |
 | [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn)                      | Web development articles by Mozilla.                                                                                                                                                                                                                                                      |
@@ -30,11 +62,22 @@
 | [Ace Frontend](https://www.acefrontend.com/)                                        | Provides practical coding challenges to ace front end interviews.                                                                                                                                                                                                                         |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/web-development/?ref=shm)             | Web development refers to the building, creating, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites.                         |
 | [Fullstack Open Course](https://fullstackopen.com/en/)                              | This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course also contains a section on GraphQL, a modern alternative to REST APIs. |
-| [Mern Stack Open Course](https://theslimcoder.com/)                                 | This course of Mern Stack recently started by slim coder academy.This course includes React.js,Node.js,Express,Mongodb.For Enrolling go to website "theslimcoder.com".                                                                                                                    |     |
-| [30 Seconds of Code](https://www.30secondsofcode.org/)                              | 30 Seconds of Code is an online programming cookbook that provides short code snippets for different programming languages.                                                                                                                                                               |
+| [Mern Stack Open Course](https://theslimcoder.com/)                                 | This course of Mern Stack recently started by slim coder academy.This course includes React.js,Node.js,Express,Mongodb.For Enrolling go to website "theslimcoder.com".| |
+| [30 Seconds of Code](https://www.30secondsofcode.org/)                              | 30 Seconds of Code is an online programming cookbook that provides short code snippets for different programming languages. |
 | [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)           | Free Tutorials and Projects covering the fundamentals of Web Development.                                                                                                                                                                                                                 |
-| [The Odin Project](https://www.theodinproject.com/)                                 | Free Tutorials and Projects Beginning from Foundations path leading up to Full Stack Web Development.                                                                                                                                                                                     |
-|  |
-| [Tutorials Point](https://www.tutorialspoint.com/)                                  | The Tutorials point offers courses and tutorials on Web Dev, Data Science, AI, Cyber Security, and Digital Marketing etc.                                                                                                                                                                     |
 | [The Odin Project](https://www.theodinproject.com/)                                 | Free Tutorials and Projects Beginning from Foundations path leading up to Full Stack Web Development.                                                                                                                                                                                                                 |
 | [PHP The right way](https://phptherightway.com//)                                 | PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.                                                                                                                                                                                                                 |
+| [Tutorials Point](https://www.tutorialspoint.com/)                                 | The Tutorials Point offers tutorials and courses on differenct programming languages, frameworks and tools. It is one of the best educational website for beginers.               
+|
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
