@@ -6,15 +6,15 @@
 
 <h1 style="text-align: center">LIST OF AWESOME LEARNING RESOURCES 🚀 </h1>
 
-This collection provides a list of educational resources for Software Engineers. 
+This collection provides a list of educational resources for Software Engineers.
 
 **Feel free to add your favorite resources as well and help others in their journey of learning.**
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
-----------------------------------------
+---
 
-# Competitive Programming 
+# Competitive Programming
 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621230.png" height="60px">
 
@@ -30,7 +30,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 ## To see it all, go here: [Competitive Programming](./resources/CompetitiveProgramming.md)
 
--------------------------------------------------------------
+---
 
 # Software Development
 
@@ -40,28 +40,29 @@ This collection provides a list of educational resources for Software Engineers.
 
 ## The Software Development section consists of :
 
-### 1. Web Development - Here are just 5 from our huge range :
+### 1. Web Development - Here are just 6 from our huge range :
+
 - [Learn Enough to Be Dangerous](https://www.learnenough.com/) - Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Coding tutorials and challenges.
 - [Thimble](https://foundation.mozilla.org/en/artifacts/thimble/) - Free online code editor, web server, web browser & developer tools.
 - [NodeSchool](https://nodeschool.io/) - Open source workshops that teach web software skills.
 - [The Odin Project](https://www.theodinproject.com/) - A full free open source coding curriculum.
+- [W3Schools](https://www.w3schools.com/) - A fully fledged website to learn web development through tutorials, references, and examples.
 
 #### To see all of the Web Development resources, go here: [Web Development](./resources/WebDevelopment.md)
 
-### 2. Mobile Development - Here are just 5 from our huge range : 
-- [Udacity Android Nanodegree ](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) -  Students can also apply for scholarship given by Google.
+### 2. Mobile Development - Here are just 5 from our huge range :
+
+- [Udacity Android Nanodegree ](https://www.udacity.com/course/android-developer-nanodegree-by-google--nd801) - Students can also apply for scholarship given by Google.
 - [Android Developer Training](https://developer.android.com/courses) - Range of courses to help you build Android apps.
 - [Vogella](https://www.vogella.com/tutorials/android.html) - Tutorials about Android development.
 - [Android Hive](https://nodeschool.io/) - Android tutorials blog.
 - [iOS development ](https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585) - Build your first iOS app with an Udacity course.
 
-
-
-------------------------------------------------------------------------------------
-
+---
 
 # Computer Programming
+
 <img src="https://image.flaticon.com/icons/png/128/2620/2620900.png" height="60px"/>
 
 - > If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
@@ -69,29 +70,30 @@ This collection provides a list of educational resources for Software Engineers.
 ## The Computer Programming section consists of :
 
 ### 1. Learn Python - Here are just 5 from our huge range :
+
 - [Coursera.org](https://www.coursera.org/) - Coursera is one of the good resources to do python courses from. You need to register for anything.
-complete beginners.
+  complete beginners.
 - [RealPython](https://realpython.com/start-here/) - Website where you can learn python that for beginners.
 - [learnpython](https://www.learnpython.org/) - Website Which is generously supported by DataCamp where you can learn python.
 - [python.org](https://wiki.python.org/moin/BeginnersGuide/Programmers) - Website that contain various resources for learning python.
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - This is one of the websites where you can learn python.
-  
+
 #### To see it all the Python resources, go here: [Learn Python](./resources/LearnPython.md)
 
-### 2. Learn Git - Here are just a few from our huge range : 
+### 2. Learn Git - Here are just a few from our huge range :
+
 - [pcottle-repository](https://github.com/pcottle/learnGitBranching) - This is a git repository visualizer, sandbox, and a series of educational tutorials and challenges.
 - [Course](https://lnkd.in/gfEaa2b) - Version Control Git course on Coursera offered.
 - [GitHub](https://lab.github.com/) - GitHub labs
-- [GraphQLExplorer](https://lnkd.in/g9vh2bn) - Github GraphQL Explorer 
-- [APIS and documentation](https://lnkd.in/gWjAsSp) - For Github REST APIs, the best resource is the documentation 
+- [GraphQLExplorer](https://lnkd.in/g9vh2bn) - Github GraphQL Explorer
+- [APIS and documentation](https://lnkd.in/gWjAsSp) - For Github REST APIs, the best resource is the documentation
 - [Github tutorial](https://youtu.be/BCQHnlnPusY) - Videos to Learn Github, step by step.
 - [KunalKushwaha](https://www.youtube.com/watch?v=apGV9Kg7ics&t=3865s) - Complete Git & Github Course.(0-100) 
 
-### 3. Learn regular expressions - Here are 2 from our range : 
+### 3. Learn regular expressions - Here are 2 from our range :
 
 - [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
-
 
 ## Communities
 
@@ -102,15 +104,14 @@ complete beginners.
 ## Here is 5 from our huge range...
 
 - [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi) - This is community of freecodecamp from Karachi, Pakistan.
-- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597) - This is community of Golang from Pakistan.                         
-- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity) - This is community of Hyderabad, Pakistan for developers.           
+- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597) - This is community of Golang from Pakistan.
+- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity) - This is community of Hyderabad, Pakistan for developers.
 - [Code With Concepts](https://www.facebook.com/groups/codewithconcepts) - This is community of teaching programming to newbie.
 - [Mentors Without Borders](https://www.facebook.com/MentorsWB) - This is community of giving mentorship for free to students.
 
 ## To see it all, go here: [Communities](./resources/Communities.md)
 
-----------------------------------------
-
+---
 
 ## Extras : Books and Video Courses! :
 
@@ -130,36 +131,40 @@ complete beginners.
 - [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
 - [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
 - [KunalKushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8&t=3181s) - This the best video i have come across for Computer Networking.(0 -100).
+- [Typescript Crash Course](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI) - Learn Typescript from scratch.
+- [HTML & CSS Crash Course](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) - Learn HTML5 and CSS3 from scratch.
+- [SCSS Crash Course](https://www.youtube.com/watch?v=_kqN4hl9bGc&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb) - Learn SCSS from scratch.
 
--------------------------------
+---
 
 ## Some Essential Tools for Frontend Web Development
 
-
 > If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
-
-- [Chrome Developer Tools](https://developer.chrome.com/devtools) - allow developers access into the internals of their web application, you can edit your HTML and CSS in real-time, or debug your JavaScript, all while viewing a through performance analysis of your website.  
+- [Chrome Developer Tools](https://developer.chrome.com/devtools) - allow developers access into the internals of their web application, you can edit your HTML and CSS in real-time, or debug your JavaScript, all while viewing a through performance analysis of your website.
 - [jQuery](https://jquery.com/) - jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation
-
+- [Debug CSS (for Edge)](https://microsoftedge.microsoft.com/addons/detail/debug-css/chlajdlkaknpjjgodghbapjhogoigegh?hl=en-US) - A lightweight extension for Microsoft Edge to show outline of all the element exist on page.
+- [React Developer Tools (for Edge)](https://microsoftedge.microsoft.com/addons/detail/react-developer-tools/gpphkfbcpidddadnkolkpfckpihlkkil) - a browser DevTools extension for the open-source React JavaScript library.
+- [Mobile Simulator](https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk) - Smartphone and tablet simulator on computer with several models to test mobile responsive websites.
 
 ## To see it all, go here: [WebTools](./resources/WebTools.md)
 
-----------------------------------------
-
+---
 
 ## More Resources Are Coming Soon!!! 🚀🚀🚀
 
 ## Contributing
+
 Pull requests are welcome 👍. For major changes, please open an issue first to discuss what you would like to change and ready [CONTRIBUTING.md](./CONTRIBUTING.md) file.
 
-------------------------------
+---
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-------------------------------------
+---
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
