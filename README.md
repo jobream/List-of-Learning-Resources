@@ -93,7 +93,7 @@ complete beginners.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
 
 ### 4. Learn Solidity Samrt Contract with hardaht - Step by Step code and Video Links : 
- - - [GitHub](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts) - Solidity Smart Contracts: Building DeFi DApps and Protocols for the Ethereum Blockchain
+- [GitHub](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts) - Solidity Smart Contracts: Building DeFi DApps and Protocols for the Ethereum Blockchain
 ## Communities
 
 <img src="https://t4.ftcdn.net/jpg/02/41/60/35/240_F_241603570_MR6B6tQjTuREQC0EIgc7l2KvVNJzsSp5.jpg" height="60px">
