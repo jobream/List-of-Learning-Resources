@@ -92,7 +92,7 @@ complete beginners.
 - [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
 
-### 2. Learn Solidity Samrt Contract with hardaht - Step by Step code and Video Links : 
+### 4. Learn Solidity Samrt Contract with hardaht - Step by Step code and Video Links : 
  - - [GitHub](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts) - Solidity Smart Contracts: Building DeFi DApps and Protocols for the Ethereum Blockchain
 ## Communities
 
