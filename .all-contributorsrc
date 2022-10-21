@@ -228,6 +228,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "cadamini",
+      "name": "Christian Adamini",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1306575?v=4",
+      "profile": "http://help.injixo.com",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -235,5 +244,6 @@
   "projectOwner": "jobream",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
