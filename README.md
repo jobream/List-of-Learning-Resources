@@ -16,7 +16,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 # Competitive Programming 
 
-<img src="https://image.flaticon.com/icons/png/128/2621/2621230.png" height="60px">
+<img src="https://cdn-icons-png.flaticon.com/128/2621/2621230.png" height="60px">
 
 > If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
@@ -34,7 +34,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 # Software Development
 
-<img src="https://image.flaticon.com/icons/png/128/234/234073.png" height="40px"/>
+<img src="https://cdn-icons-png.flaticon.com/128/234/234073.png" height="40px"/>
 
 > If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
@@ -62,7 +62,7 @@ This collection provides a list of educational resources for Software Engineers.
 
 
 # Computer Programming
-<img src="https://image.flaticon.com/icons/png/128/2620/2620900.png" height="60px"/>
+<img src="https://cdn-icons-png.flaticon.com/128/2620/2620900.png" height="60px"/>
 
 - > If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 -
@@ -115,7 +115,7 @@ complete beginners.
 
 ## Extras : Books and Video Courses! :
 
-<img src="https://image.flaticon.com/icons/png/128/3730/3730087.png" height="60px"> <img src="https://image.flaticon.com/icons/png/128/2096/2096018.png" height="60px">
+<img src="https://cdn-icons-png.flaticon.com/128/3730/3730087.png" height="60px"> <img src="https://image.flaticon.com/icons/png/128/2096/2096018.png" height="60px">
 
 > If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
