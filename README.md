@@ -92,8 +92,9 @@ complete beginners.
 - [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
 
-### 4. Learn Solidity Samrt Contract with hardaht - Step by Step code and Video Links : 
+### 4. Learn Solidity Smart Contract with hardhat - Step by Step code and Video Links : 
 - [GitHub](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts) - Solidity Smart Contracts: Building DeFi DApps and Protocols for the Ethereum Blockchain
+
 ## Communities
 
 <img src="https://t4.ftcdn.net/jpg/02/41/60/35/240_F_241603570_MR6B6tQjTuREQC0EIgc7l2KvVNJzsSp5.jpg" height="60px">
@@ -102,11 +103,11 @@ complete beginners.
 
 ## Here is 5 from our huge range...
 
-- [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi) - This is community of freecodecamp from Karachi, Pakistan.
-- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597) - This is community of Golang from Pakistan.                         
-- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity) - This is community of Hyderabad, Pakistan for developers.           
-- [Code With Concepts](https://www.facebook.com/groups/codewithconcepts) - This is community of teaching programming to newbie.
-- [Mentors Without Borders](https://www.facebook.com/MentorsWB) - This is community of giving mentorship for free to students.
+- [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi) - Freecodecamp community from Karachi, Pakistan.
+- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597) - Golang community from Pakistan.                         
+- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity) - Hyderabad community from Pakistan for developers.           
+- [Code With Concepts](https://www.facebook.com/groups/codewithconcepts) - Community of teaching programming to newbie.
+- [Mentors Without Borders](https://www.facebook.com/MentorsWB) - Community of giving mentorship to students for free.
 
 ## To see it all, go here: [Communities](./resources/Communities.md)
 
@@ -115,7 +116,7 @@ complete beginners.
 
 ## Extras : Books and Video Courses! :
 
-<img src="https://cdn-icons-png.flaticon.com/128/3730/3730087.png" height="60px"> <img src="https://image.flaticon.com/icons/png/128/2096/2096018.png" height="60px">
+<img src="https://cdn-icons-png.flaticon.com/128/3730/3730087.png" height="60px">
 
 > If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
@@ -128,9 +129,9 @@ complete beginners.
 - [Pro Git](https://git-scm.com/book/en/v2) - This book is a comperhensive guide on version control (and it's free!)
 
 ### 2. Video Courses - Here are 3 from our range :
-- [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn Go Programming language from scratch.
+- [Golang For Absolute Beginners](https://youtube.com/playlist?list=PLf-kTzgXA1gxcQDIoCYxP3kk_fCPZnFXr) - Learn the Go Programming language from scratch.
 - [Master Git and GitHub](https://www.youtube.com/playlist?list=PLf-kTzgXA1gx4N5271oljF1S_J8knU_Jc) - Learn Git and GitHub from scratch.
-- [KunalKushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8&t=3181s) - This the best video i have come across for Computer Networking.(0 -100).
+- [KunalKushwaha](https://www.youtube.com/watch?v=IPvYjXCsTg8&t=3181s) - The best video I have come across for Computer Networking (0-100).
 
 -------------------------------
 
@@ -162,6 +163,10 @@ Pull requests are welcome 👍. For major changes, please open an issue first to
 
 ------------------------------------
 ## Contributors ✨
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification for recognizing project contributors. 
+
+Contributions of any kind welcome!
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -210,5 +215,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+ 
