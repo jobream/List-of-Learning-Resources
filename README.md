@@ -92,7 +92,7 @@ complete beginners.
 - [ziishaned-repository](https://github.com/ziishaned/learn-regex) - This is a resource for learning Regular Expressions in many languages.
 - [Regex tutorials](http://regextutorials.com/) - Provides both theory and exercises to learn Regular Expressions.
 
-### 4. Learn Solidity Samrt Contract with hardaht - Step by Step code and Video Links : 
+### 4. Learn Solidity Smart Contract with hardhat - Step by Step code and Video Links : 
 - [GitHub](https://github.com/panacloud-modern-global-apps/defi-dapps-solidity-smart-contracts) - Solidity Smart Contracts: Building DeFi DApps and Protocols for the Ethereum Blockchain
 ## Communities
 
@@ -102,11 +102,11 @@ complete beginners.
 
 ## Here is 5 from our huge range...
 
-- [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi) - This is community of freecodecamp from Karachi, Pakistan.
-- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597) - This is community of Golang from Pakistan.                         
-- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity) - This is community of Hyderabad, Pakistan for developers.           
-- [Code With Concepts](https://www.facebook.com/groups/codewithconcepts) - This is community of teaching programming to newbie.
-- [Mentors Without Borders](https://www.facebook.com/MentorsWB) - This is community of giving mentorship for free to students.
+- [Freecodecamp Karachi](https://www.facebook.com/groups/free.code.camp.karachi) - Freecodecamp community from Karachi, Pakistan.
+- [Golang Pakistan](https://www.facebook.com/groups/2547735885480597) - Golang community from Pakistan.                         
+- [Hyderabad Developer Community](https://www.facebook.com/groups/HyderabadDeveloperCommunity) - Hyderabad community from Pakistan.           
+- [Code With Concepts](https://www.facebook.com/groups/codewithconcepts) - Community to teach programming to newbie.
+- [Mentors Without Borders](https://www.facebook.com/MentorsWB) - Community to give mentorship for free to students.
 
 ## To see it all, go here: [Communities](./resources/Communities.md)
 
