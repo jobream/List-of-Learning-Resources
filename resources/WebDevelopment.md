@@ -2,7 +2,7 @@
 
 <img src="https://image.flaticon.com/icons/png/128/234/234073.png" height="40px"/>
 
-> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!  
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
 
 | Resource                                                                            | Description                                                                                                                                                                                                                                                                               |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -32,4 +32,4 @@
 | [freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)           | Free Tutorials and Projects covering the fundamentals of Web Development.                                                                                                                                                                                                                 |
 | [The Odin Project](https://www.theodinproject.com/)                                 | Free Tutorials and Projects Beginning from Foundations path leading up to Full Stack Web Development.                                                                                                                                                                                     |
 | [PHP The right way](https://phptherightway.com//)                                   | PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards, links to authoritative tutorials around the Web and what the contributors consider to be best practices at the present time.                                                                     |
-| [Tutorials Point](https://www.tutorialspoint.com/)                                  | The Tutorials Point offers tutorials and courses on differenct programming languages, frameworks and tools. It is one of the best educational website for beginers.               
+| [Tutorials Point](https://www.tutorialspoint.com/)                                  | The Tutorials Point offers tutorials and courses on differenct programming languages, frameworks and tools. It is one of the best educational website for beginers.                                                                                                                       |
