@@ -1,12 +1,10 @@
-## Competitive Programming Links:
--------------------------------
+## Competitive Programming Links
 
 ### Practice your skills, play games, and prepare for interviews!
 
-> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!
-<br>
+> If you think there is a resource which you think others would benefit on, fork, add your changes, and make a pull request!  
 
-| Resource Name                                                | Description                                                                               |
+| Resource                                                     | Description                                                                               |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
 | [Spoj](https://www.spoj.com/)                                | Programming contests with online judging system.                                          |
 | [Interview Bit](https://www.interviewbit.com/)               | A platform to learn and practice coding interview questions.                              |
