@@ -46,6 +46,7 @@ This collection provides a list of educational resources for Software Engineers.
 - [Thimble](https://foundation.mozilla.org/en/artifacts/thimble/) - Free online code editor, web server, web browser & developer tools.
 - [NodeSchool](https://nodeschool.io/) - Open source workshops that teach web software skills.
 - [The Odin Project](https://www.theodinproject.com/) - A full free open source coding curriculum.
+- [Scaler Blogs](https://www.scaler.com/blog/category/software-development/) - Explore Tech Career Paths & Software Roadmaps.
 
 #### To see all of the Web Development resources, go here: [Web Development](./resources/WebDevelopment.md)
 
